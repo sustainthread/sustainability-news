@@ -2,116 +2,154 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🌿 Sustainability News | Curated by Vishal Londhe</title>
     <style>
+        /* 1. Reset and Base Styles */
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: "Helvetica Neue", Arial, sans-serif; background: #f4f4f4; color: #222; line-height: 1.5; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            background: #f0f2f5; /* Light gray background for modern feel */
+            color: #333;
+            line-height: 1.6;
+        }
 
+        /* 2. Header Styles */
         header {
-            background: #2a7f62; /* Green for sustainability */
+            background: #2a7f62; /* Deep Green */
             color: white;
-            padding: 30px 0;
+            padding: 40px 20px;
             text-align: center;
-            font-size: 2em;
-            font-weight: bold;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 2.2em;
+            margin-bottom: 5px;
         }
 
         header span {
-            font-size: 0.7em;
+            font-size: 1em;
             display: block;
-            font-weight: normal;
-            margin-top: 5px;
+            font-weight: 300;
+            opacity: 0.9;
         }
 
+        /* 3. Main Layout (Responsive Grid) */
         main {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-            gap: 20px;
-            padding: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            padding: 25px;
             max-width: 1200px;
-            margin: 0 auto;
+            margin: 25px auto;
         }
 
+        /* 4. Card Styles */
         .card {
             background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+            border-radius: 12px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
             overflow: hidden;
             display: flex;
             flex-direction: column;
-            transition: transform 0.2s;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border-left: 8px solid; /* Placeholder for color-coding */
         }
 
-        .card:hover { transform: translateY(-3px); }
-
-        .card img {
-            width: 100%;
-            height: 180px;
-            object-fit: cover;
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15);
         }
 
         .card-content {
-            padding: 15px;
+            padding: 20px;
             flex: 1;
             display: flex;
             flex-direction: column;
         }
 
-        .card-content h3 {
-            margin-bottom: 10px;
+        /* 5. Summary and Source */
+        .card-content .summary {
             font-size: 1.1em;
-            color: #2a7f62;
-        }
-
-        .card-content p {
+            font-weight: 500;
             margin-bottom: 15px;
-            flex-grow: 1;
+            color: #2a7f62; /* Highlight summary */
         }
 
+        .card-content .source-link {
+            display: block;
+            font-size: 0.85em;
+            color: #666;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+
+        /* 6. Articles List */
         .card-content ul {
             list-style: none;
             padding: 0;
-            margin-top: auto;
+            margin-top: auto; /* Pushes the list to the bottom */
         }
 
         .card-content li {
-            margin-bottom: 5px;
-            font-size: 0.9em;
+            margin-bottom: 10px;
+            font-size: 0.95em;
         }
 
         .card-content li a {
             color: #007bff;
             text-decoration: none;
+            font-weight: 600;
+            display: block;
         }
 
         .card-content li a:hover {
+            color: #0056b3;
             text-decoration: underline;
-        }
-
-        .source-link {
-            display: block;
-            margin-top: 10px;
-            font-size: 0.8em;
-            color: #666;
         }
 
         .date {
             font-size: 0.8em;
             color: #999;
-            margin-left: 5px;
+            display: block;
+            margin-top: 2px;
+            font-weight: normal;
         }
 
-        /* Color-coding for clusters */
-        .cluster-1 { border-top: 5px solid #4CAF50; }
-        .cluster-2 { border-top: 5px solid #FFC107; }
-        .cluster-3 { border-top: 5px solid #2196F3; }
-        .cluster-4 { border-top: 5px solid #E91E63; }
-        .cluster-5 { border-top: 5px solid #9C27B0; }
+        /* 7. Color-coding for clusters (used for border-left) */
+        .cluster-1 { border-left-color: #4CAF50; } /* Green */
+        .cluster-2 { border-left-color: #FFC107; } /* Amber */
+        .cluster-3 { border-left-color: #2196F3; } /* Blue */
+        .cluster-4 { border-left-color: #E91E63; } /* Pink */
+        .cluster-5 { border-left-color: #9C27B0; } /* Purple */
+
+        /* 8. Media Query for Mobile Optimization */
+        @media (max-width: 600px) {
+            header {
+                padding: 20px 10px;
+            }
+            header h1 {
+                font-size: 1.8em;
+            }
+            main {
+                grid-template-columns: 1fr; /* Single column on mobile */
+                padding: 15px;
+                gap: 15px;
+            }
+            .card {
+                border-radius: 8px;
+            }
+            .card-content {
+                padding: 15px;
+            }
+        }
     </style>
 </head>
 <body>
     <header>
-        🌿 Sustainability News
+        <h1>🌿 Sustainability News</h1>
         <span>Curated by Vishal Londhe</span>
     </header>
 
@@ -121,34 +159,49 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('news-container');
+
+            // Function to truncate text to a reasonable length
+            const truncateText = (text, maxLength) => {
+                if (text.length <= maxLength) return text;
+                return text.substring(0, maxLength) + '...';
+            };
+
             fetch('clustered_articles.json')
-                .then(response => response.json())
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok ' + response.statusText);
+                    }
+                    return response.json();
+                })
                 .then(data => {
-                    const container = document.getElementById('news-container');
                     data.forEach((cluster, index) => {
                         const card = document.createElement('div');
-                        card.className = `card cluster-${(index % 5) + 1}`;
-
-                        // Image placeholder
-                        const imageUrl = cluster.image_url || 'https://via.placeholder.com/400x180/2a7f62/ffffff?text=No+Image+Available';
-                        card.innerHTML += `<img src="${imageUrl}" alt="Cluster Image">`;
+                        // Use the original cluster-N logic for color-coding
+                        card.className = \`card cluster-${(index % 5) + 1}\`;
 
                         const content = document.createElement('div');
                         content.className = 'card-content';
 
-                        // Summary with fallback
-                        const summaryText = cluster.summary && cluster.summary.length > 0 ? cluster.summary : "No summary available for this cluster.";
-                        content.innerHTML += `<h3>${summaryText}</h3>`;
+                        // Summary with truncation and fallback
+                        const rawSummary = cluster.summary && cluster.summary.length > 0 ? cluster.summary : "No summary available for this cluster.";
+                        const truncatedSummary = truncateText(rawSummary, 200); // Truncate to max 200 chars
+                        content.innerHTML += \`<p class="summary">\${truncatedSummary}</p>\`;
 
                         // Source name
                         const sourceName = cluster.source_link || 'Unknown Source';
-                        content.innerHTML += `<span class="source-link">Source: ${sourceName}</span>`;
+                        content.innerHTML += \`<span class="source-link">Source: \${sourceName}</span>\`;
 
                         // Articles list - top 3
                         const ul = document.createElement('ul');
                         (cluster.articles.slice(0, 3)).forEach(article => {
                             const li = document.createElement('li');
-                            li.innerHTML = `<a href="${article.url}" target="_blank">${article.title}</a> <span class="date">(${article.date})</span>`;
+                            li.innerHTML = \`
+                                <a href="\${article.url}" target="_blank">
+                                    \${article.title}
+                                    <span class="date">(\${article.date})</span>
+                                </a>
+                            \`;
                             ul.appendChild(li);
                         });
                         content.appendChild(ul);
@@ -159,7 +212,7 @@
                 })
                 .catch(error => {
                     console.error('Error fetching or processing clustered articles:', error);
-                    document.getElementById('news-container').innerHTML = '<p>Failed to load news. Check console for details.</p>';
+                    container.innerHTML = '<p style="text-align: center; padding: 50px; color: #d9534f;">Failed to load news. Please ensure clustered_articles.json is available and correctly formatted.</p>';
                 });
         });
     </script>
