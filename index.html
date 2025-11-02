@@ -12,6 +12,9 @@
             background: #f0f2f5;
             color: #333;
             line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
         }
 
         /* 2. Header Styles */
@@ -43,6 +46,7 @@
             padding: 25px;
             max-width: 1200px;
             margin: 25px auto;
+            flex: 1;
         }
 
         /* 4. Card Styles */
@@ -140,7 +144,50 @@
             grid-column: 1 / -1;
         }
 
-        /* 9. Media Query for Mobile */
+        /* 9. Footer Styles */
+        footer {
+            background: #2a7f62;
+            color: white;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: auto;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer-content p {
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+
+        .linkedin-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            padding: 10px 20px;
+            border: 2px solid white;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+        }
+
+        .linkedin-link:hover {
+            background: white;
+            color: #2a7f62;
+        }
+
+        .linkedin-icon {
+            width: 20px;
+            height: 20px;
+            fill: currentColor;
+        }
+
+        /* 10. Media Query for Mobile */
         @media (max-width: 600px) {
             header {
                 padding: 20px 10px;
@@ -159,6 +206,13 @@
             .card-content {
                 padding: 15px;
             }
+            footer {
+                padding: 25px 15px;
+            }
+            .linkedin-link {
+                padding: 8px 16px;
+                font-size: 0.9em;
+            }
         }
     </style>
 </head>
@@ -173,6 +227,18 @@
             <p>Loading sustainability news...</p>
         </div>
     </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>Stay informed about sustainability and environmental news.</p>
+            <a href="https://www.linkedin.com/in/vishallondhe" target="_blank" rel="noopener noreferrer" class="linkedin-link">
+                <svg class="linkedin-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                </svg>
+                Follow me on LinkedIn
+            </a>
+        </div>
+    </footer>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
