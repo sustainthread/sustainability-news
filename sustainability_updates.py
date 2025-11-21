@@ -38,11 +38,36 @@ SUMMARIES_JSON = "summarized_articles.json"
 
 NUM_CLUSTERS = 5
 RSS_FEEDS = [
+    # Current sources (keep these)
     "https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml",
     "https://www.reuters.com/feeds/rss/environment",
     "https://www.theguardian.com/environment/rss",
     "https://www.cnbc.com/id/19836768/device/rss/rss.html",
-    "https://www.euractiv.com/section/energy-environment/feed/"
+    "https://www.euractiv.com/section/energy-environment/feed/",
+    
+    # NEW: European perspective
+    "https://www.euronews.com/green/feed",
+    "https://www.dw.com/rss/en_science-16726",
+    
+    # NEW: Middle Eastern/Global South perspective  
+    "https://www.aljazeera.com/xml/rss/all.xml",  # You'll filter for environment topics in text extraction
+    
+    # NEW: Asian perspective
+    "https://www.thehindu.com/sci-tech/energy-and-environment/feeder/default.rss",
+    
+    # NEW: Additional specialized sources
+    "https://www.greenbiz.com/rss",  # Sustainable business
+    "https://ens-newswire.com/feed/",  # Environment News Service
+    "https://www.worldbank.org/en/topic/climatechange/rss.xml",
+    "https://feeds.feedburner.com/EdieNews",  # Sustainability business news
+    "https://www.climatechangenews.com/feed/",
+    
+    # NEW: US-focused but diverse
+    "https://grist.org/feed/",  # Environmental journalism
+    "https://insideclimatenews.org/feed/",
+    
+    # NEW: Ocean and biodiversity focus
+    "https://news.mongabay.com/feed/",
 ]
 
 # If running in CI (GitHub Actions sets CI=true), skip launching Gradio later.
@@ -115,9 +140,23 @@ import newspaper
 import json
 
 def extract_full_text(article_list):
+    sustainability_keywords = [
+        'sustainability', 'sustainable', 'climate', 'environment', 'green', 
+        'renewable', 'carbon', 'emissions', 'eco', 'energy', 'conservation',
+        'biodiversity', 'recycling', 'pollution', 'global warming', 'clean energy',
+        'electric vehicle', 'solar', 'wind power', 'deforestation', 'organic',
+        'circular economy', 'net zero', 'ESG', 'climate change', 'environmental',
+        'cop28', 'cop29', 'global warming', 'greenhouse', 'zero emission'
+    ]
+    
     extracted = []
-    for art in article_list:
+    for art in tqdm(article_list, desc="Extracting article text"):
         try:
+            # Skip if title doesn't suggest sustainability content (for broad feeds)
+            title = art.get("title", "").lower()
+            if any(keyword in title for keyword in ['sports', 'entertainment', 'celebrity']):
+                continue
+                
             # Initialize newspaper article
             a = newspaper.Article(art["link"])
             a.download()
@@ -129,12 +168,19 @@ def extract_full_text(article_list):
             # Get top image (empty string if not found)
             top_image = getattr(a, "top_image", "") or ""
 
+            article_text = getattr(a, "text", "")
+            
+            # Check if article is actually about sustainability (for broad feeds like Al Jazeera)
+            combined_text = (title + " " + article_text).lower()
+            if not any(keyword in combined_text for keyword in sustainability_keywords):
+                continue  # Skip non-sustainability articles
+
             # Append extracted article info
             extracted.append({
                 "title": art.get("title", "Untitled"),
                 "link": art.get("link", "#"),
                 "published": art.get("published", ""),
-                "text": getattr(a, "text", ""),
+                "text": article_text,
                 "source": source_name,
                 "image": top_image
             })
