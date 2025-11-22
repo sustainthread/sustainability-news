@@ -2,63 +2,117 @@
   {
     "articles": [
       {
-        "title": "Nazi bombs, torpedo heads and mines: how marine life thrives on dumped weapons",
-        "url": "https://www.theguardian.com/environment/2025/nov/20/oceans-germany-baltic-sealife-reefs-toxic-second-world-war-munitions-aoe",
+        "title": "Cop30: countries still far apart as climate talks overrun – as it happened",
+        "url": "https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates",
+        "date": "2025-11-22",
+        "source": "Environment | The Guardian",
+        "text": "<p>Summit president André Corrêa do Lago issued plea to preserve Paris agreement with countries unable to reach compromise on scheduled final day</p><p>An informal stocktake plenary is now underway [see live feed at the top of the blog]. Here the presidency will update parties on the state of the negotiations.</p><p>My colleague Damian Carrington will be keeping across the main developments.</p> <a href=\"https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 0
+      },
+      {
+        "title": "From waste pickers to courtrooms: Women demand a gender focus at COP30",
+        "url": "https://news.un.org/feed/view/en/story/2025/11/1166427",
+        "date": "2025-11-21",
+        "source": "UN News - Global perspective Human stories",
+        "text": "On the scheduled final day of COP30 in Belém, tense negotiations are stretching into Friday afternoon as divisions persist. Amid the ongoing talks, one message is cutting through the noise: there is no climate justice without gender equality.",
+        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/21-11-2025-UNFCCC-COP30-03.jpg/image560x340cropped.jpg",
+        "cluster_id": 0
+      },
+      {
+        "title": "Miliband urges Cop30 to find ‘creative’ routes to roadmap on phasing out fossil fuel",
+        "url": "https://www.theguardian.com/environment/2025/nov/21/miliband-cop30-creative-routes-roadmap-phase-out-fossil-fuel",
+        "date": "2025-11-21",
+        "source": "Environment | The Guardian",
+        "text": "<p>UK energy secretary says UN climate talks must find way to keep proposals alive despite significant resistance</p><p>Supporters of a <a href=\"https://www.theguardian.com/environment/2025/nov/21/cop30-delegates-far-apart-on-phasing-out-fossil-fuels-and-cutting-carbon\">global phaseout of fossil fuels</a> must find “creative” ways to keep the proposal alive, including making it voluntary rather than binding, the UK energy secretary, Ed Miliband, has said in the closing stages of the UN climate talks.</p><p>As the <a href=\"https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates\">Cop30 summit in Brazil</a> carried on past the Friday night deadline, the prospect of countries agreeing on the <a href=\"https://www.theguardian.com/environment/2025/nov/16/can-cop30-begin-the-process-of-phasing-out-fossil-fuels\">need for a roadmap to a global “transition away from fossil fuels”</a> looked increasingly dim. A first draft of the potential outcome text from the summit had contained the formulation, but in the updated draft text produced on Friday by the Brazilian presidency it had been excised.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/21/miliband-cop30-creative-routes-roadmap-phase-out-fossil-fuel\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 0
+      },
+      {
+        "title": "Cop30 delegates ‘far apart’ on phasing out fossil fuels and cutting carbon",
+        "url": "https://www.theguardian.com/environment/2025/nov/21/cop30-delegates-far-apart-on-phasing-out-fossil-fuels-and-cutting-carbon",
+        "date": "2025-11-21",
+        "source": "Environment | The Guardian",
+        "text": "<p>President of talks urges ministers and high-ranking officials to find common ground as conference nears its end</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates\">Cop30 live – latest updates</a></p></li></ul><p>Climate crisis talks look likely to stretch well into the weekend in Brazil, with countries still far apart on the crucial issues of phasing out fossil fuels and cutting carbon.</p><p>The Cop30 president, André Corrêa do Lago, urged ministers and high-ranking officials from more than 190 countries to <a href=\"https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates\">find common ground</a>: “We need to preserve this regime [of the Paris climate agreement] with the spirit of cooperation, not in the spirit of who is going to win or is willing to lose’” he said. “Because we know if we don’t strengthen this, everyone will lose.”</p> <a href=\"https://www.theguardian.com/environment/2025/nov/21/cop30-delegates-far-apart-on-phasing-out-fossil-fuels-and-cutting-carbon\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 0
+      },
+      {
+        "title": "‘The world is watching’: Guterres and Lula urge unity as COP30 talks near deadline",
+        "url": "https://news.un.org/feed/view/en/story/2025/11/1166417",
+        "date": "2025-11-20",
+        "source": "UN News - Global perspective Human stories",
+        "text": "With the clock ticking on climate negotiations in Belém, UN Secretary-General António Guterres and Brazil’s President Luiz Inácio Lula da Silva, speaking separately, delivered a united message: the world is watching, and compromise cannot wait.",
+        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/20-11-2025_UNFCCC_COP30-01.jpg/image560x340cropped.jpg",
+        "cluster_id": 0
+      },
+      {
+        "title": "What’s at stake in the COP30 negotiations?",
+        "url": "https://news.un.org/feed/view/en/story/2025/11/1166415",
+        "date": "2025-11-20",
+        "source": "UN News - Global perspective Human stories",
+        "text": "Talks at the COP30 climate summit in Belém, Brazil, were suspended on Thursday after a fire broke out in the venue, triggering evacuations that halted negotiations between more than 190 delegations. The summit was set to conclude Friday, and the disruption came at a critical moment as countries were locked in tense debates over fossil fuels and climate finance. The outcome of these talks is widely seen as a litmus test for turning decades of climate pledges into concrete action.",
+        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/20-11-2025-UNFCCC-COP30-01.jpg/image560x340cropped.jpg",
+        "cluster_id": 0
+      },
+      {
+        "title": "Australia’s failed bid to host Cop31 looks like a mess – but it may actually be the best result possible | Adam Morton",
+        "url": "https://www.theguardian.com/environment/2025/nov/20/australia-cop31-failed-host-bid-outcome-chris-bowen-climate",
         "date": "2025-11-20",
         "source": "Environment | The Guardian",
-        "text": "<p>Scientists discover thousands of sea creatures have made their homes amid the detritus of abandoned second world war munitions off the coast of Germany</p><p>In the brackish waters off the German coast lies a wasteland of Nazi bombs, torpedo heads and mines. Thrown off barges at the end of the second world war and forgotten about, thousands of munitions have become matted together over the years. They form a rusting carpet on the shallow, muddy seafloor of the Bay of Lübeck in the western tip of the Baltic Sea.</p><p>Over the decades, the Nazi arsenal was ignored and forgotten about. A growing number of tourists flocked to the sandy beaches and calm waters for jetskiing, kite surfing and amusement parks. Beneath the surface, the weapons decayed.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/20/oceans-germany-baltic-sealife-reefs-toxic-second-world-war-munitions-aoe\">Continue reading...</a>",
+        "text": "<p>While the outcome is a let down for those who want Australia to do better on climate, Chris Bowen looks set to play a pivotal role in the UN talks</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here</a></p></li></ul><p>Ouch. From one perspective, Australia’s long-running bid to host the Cop31 UN climate conference next year has ended in clear failure.</p><p>It campaigned for more than three years for the right to put on the world’s biggest climate summit and green trade fair, which would have brought tens of thousands of people to the South Australian capital of Adelaide next November.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/20/australia-cop31-failed-host-bid-outcome-chris-bowen-climate\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 0
       },
       {
-        "title": "Drone footage shows ‘mountain’ of fly-tipped waste in Oxfordshire – video",
-        "url": "https://www.theguardian.com/uk-news/video/2025/nov/19/drone-footage-mountain-fly-tipped-waste-kidlington-oxfordshire-video",
-        "date": "2025-11-19",
-        "source": "Environment | The Guardian",
-        "text": "<p>Drone footage shows hundreds of tonnes of rubbish piled up in a field in a small village in Oxfordshire. The illegal waste was left by fly-tippers between the River Cherwell and the A34 near Kidlington. It is said to be 150 metres long and at least 6 metres high, according to local media</p><p></p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/nov/15/fly-tippers-dump-mountain-of-waste-in-oxfordshire-field\">Fly-tippers dump ‘mountain’ of waste in Oxfordshire field</a></p></li></ul> <a href=\"https://www.theguardian.com/uk-news/video/2025/nov/19/drone-footage-mountain-fly-tipped-waste-kidlington-oxfordshire-video\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 0
-      },
-      {
-        "title": "‘We feel we’re fighting a losing battle’: the race to remove millions of plastic beads from Camber Sands",
-        "url": "https://www.theguardian.com/environment/2025/nov/15/race-remove-millions-plastic-biobeads-camber-sands-volunteers",
-        "date": "2025-11-15",
-        "source": "Environment | The Guardian",
-        "text": "<p>A huge cleanup effort has seen volunteers working to remove beads by hand and machine. They can only wait and see the extent of damage to wildlife and dune habitat</p><p>Just past a scrum of dog walkers, about 40 people are urgently combing through the sand on hands and knees. Their task is to try to remove millions of peppercorn-sized black plastic biobeads from where they have settled in the sand. Beyond them, a seal carcass grins menacingly, teeth protruding from its rotting skull.</p><p>Last week, an environmental disaster took place on Camber Sands beach, on what could turn out to be an unprecedented scale. Eastbourne Wastewater Treatment Works, owned by Southern Water, experienced a mechanical failure and <a href=\"https://www.theguardian.com/uk-news/2025/nov/08/environmental-catastrophe-fears-as-millions-of-plastic-beads-wash-up-on-camber-sands\">spewed out millions of biobeads</a> on to the Sussex coastline. Southern Water <a href=\"https://www.theguardian.com/environment/2025/nov/10/southern-water-spill-plastic-biobeads-sussex-camber-sands\">has since taken responsibility</a> for the spill. Ironically, biobeads are used to clean wastewater – bacteria attach to their rough, crinkly surface and clean the water of contaminants.</p><p>Camber Sands is one of England’s most popular beaches, with rare dune habitat</p> <a href=\"https://www.theguardian.com/environment/2025/nov/15/race-remove-millions-plastic-biobeads-camber-sands-volunteers\">Continue reading...</a>",
-        "image_url": null,
+        "title": "COP30 enters its final stretch: urgency, ambition, and voices from the streets",
+        "url": "https://news.un.org/feed/view/en/story/2025/11/1166390",
+        "date": "2025-11-17",
+        "source": "UN News - Global perspective Human stories",
+        "text": "The last week of COP30 has begun in Belém with a palpable sense of urgency. Ministers and senior officials are now stepping into the spotlight, as negotiations move from technical wrangling to political decision-making. The stakes? Nothing less than charting a credible path to climate justice in a world running out of time.",
+        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/25-11-17-COP30-indigenous.jpg/image560x340cropped.jpg",
         "cluster_id": 0
       }
     ],
     "source_link": "Environment | The Guardian",
-    "summary": "Thousands of munitions have become matted together over the years. They form a rusting carpet on the shallow, muddy seafloor of the Bay of Lübeck in the western tip of the Baltic Sea.",
+    "summary": "Summit president André Corrêa do Lago issued plea to preserve Paris agreement. Tense negotiations stretching into Friday afternoon as divisions persist. Amid the ongoing talks, one message is cutting through the noise: there is no climate justice without gender equality.",
     "image_url": null
   },
   {
     "articles": [
       {
-        "title": "Three-metre giant oarfish, ‘palace messenger’ of doom, washes up on Tasmanian beach",
-        "url": "https://www.theguardian.com/environment/2025/nov/21/giant-oarfish-washes-up-on-tasmanian-beach",
-        "date": "2025-11-21",
+        "title": "Quebec lake breaks bank and empties out downstream – video",
+        "url": "https://www.theguardian.com/world/video/2025/nov/20/quebec-lake-breaks-bank-and-empties-out-downstream-video",
+        "date": "2025-11-20",
         "source": "Environment | The Guardian",
-        "text": "<p>The enormous, serpentine fish, regarded in Japanese folklore as a herald of disaster, usually live deep below the surface and are only sighted when sick or dying</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>It was a beautiful warm day in north-west Tasmania when a fish with a reputation as a harbinger of doom washed ashore.</p><p>Tony Cheesman, who lives in the seaside town of Penguin, was walking his two dogs, Ronan and Custard, along the beach at Preservation Bay on Friday morning when something silvery and surrounded by gulls grabbed his attention.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/21/giant-oarfish-washes-up-on-tasmanian-beach\">Continue reading...</a>",
+        "text": "<p>The reason for the disappearance of Lac Rouge in Quebec, Canada, is not confirmed, but the trigger may have been a combination of heavy rainfall and wildfires having rendered the surrounding soil more water-repellent. </p><p>Tree root systems allow for greater water retention, meaning soil is able to absorb more water as snow melts in spring. Nicolas Mainville, the conservation and climate director at Snap Quebec, said: 'Flying over the area reveals how huge swathes of forest have been completely removed by salvage logging and post-fire scarification. </p><p>'The forest is fragile. It is time to better protect the land'</p> <a href=\"https://www.theguardian.com/world/video/2025/nov/20/quebec-lake-breaks-bank-and-empties-out-downstream-video\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 1
       },
       {
-        "title": "Week in wildlife: traffic-stopping reindeer, wildcats and a giraffe on the move",
-        "url": "https://www.theguardian.com/environment/gallery/2025/nov/21/week-in-wildlife-traffic-stopping-reindeer-wildcats-and-a-giraffe-on-the-move",
-        "date": "2025-11-21",
-        "source": "Environment | The Guardian",
-        "text": "<p>This week’s best wildlife photographs from around the world</p> <a href=\"https://www.theguardian.com/environment/gallery/2025/nov/21/week-in-wildlife-traffic-stopping-reindeer-wildcats-and-a-giraffe-on-the-move\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 1
-      },
-      {
-        "title": "Onboard the world’s largest sailing cargo ship: is this the future of travel and transport?",
-        "url": "https://www.theguardian.com/environment/2025/nov/19/shipping-carbon-emissions-neoliner-origin-cargo-age-of-sail",
+        "title": "In the Amazon, a school becomes a beacon of climate resilience",
+        "url": "https://news.un.org/feed/view/en/story/2025/11/1166408",
         "date": "2025-11-19",
+        "source": "UN News - Global perspective Human stories",
+        "text": "The boat ride from Belém to Barcarena is a journey through shimmering waterways and emerald forest, where the Amazon meets the Atlantic in a sweep of beauty. But beneath the postcard-perfect scene, climate change is quietly rewriting the rules of life.",
+        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/19-11-25-ONUNews-Barcarena03.png/image560x340cropped.jpg",
+        "cluster_id": 1
+      },
+      {
+        "title": "Europe has rare earths but, for now, it's at China's mercy like everyone else",
+        "url": "https://www.cnbc.com/2025/11/19/europe-has-rare-earths-but-for-now-its-at-chinas-mercy.html",
+        "date": "2025-11-19",
+        "source": "Energy",
+        "text": "Like the U.S., Europe is also feeling the pressure to keep China sweet in order to maintain supplies of rare earth elements, which are vital for its strategic industries in the region such as auto production, green energy and defense.\n\nEurope is heavily dependent on China for supplies of the world's 17 rare earth elements and has been looking to calm stormy waters with Beijing over supplies, while looking for alternative sources of critical minerals — including in its own back yard.\n\nThat's a long process, however, and for now, Europe is as vulnerable as other major consumers of rare earths, and particularly the U.S., when it comes to Beijing's ability to turn the tap off on supplies.\n\nOfficials from Germany and the Netherlands are in Beijing this week for talks with their Chinese counterparts on China's controls on rare earths exports and semiconductor chips which have made European industries vulnerable to global supply chain disruptions.\n\nChina dominates the rare earths market from mining to refining, with data from the International Energy Agency showing that, in 2024, China was responsible for 59% of the world's rare earths mining, 91% of its refining and 94% of the manufacuring of permanent magnets which are commonly used in electric vehicles, wind turbines, industrial motors, data centers and defense systems.\n\nAs the world's single largest supplier of a component that's critical to so much manufacturing, China's dominance has made \"global supply chains in strategic sectors – such as energy, automotive, defense and AI data centres – vulnerable to potential disruptions,\" the IEA noted.\n\nThat potential for disruption came to the fore this year when, in April and October, Beijing announced licensing requirements, and later export controls, on its rare earth supplies and technologies.\n\nThose controls were suspended for a year as a result of a trade truce reached in October between China and the U.S. reached but major rare earth importers such as the U.S. and EU, which imports around 70% of rare earth supplies — and almost all of its rare earth magnets — from China, are all too aware of its vulnerabilities to geopolitical disruptions.",
+        "image_url": null,
+        "cluster_id": 1
+      },
+      {
+        "title": "The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?",
+        "url": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe",
+        "date": "2025-11-18",
         "source": "Environment | The Guardian",
-        "text": "<p>The Neoliner Origin set off on its inaugural two-week voyage from France to the US with the aim of revolutionising the notoriously dirty shipping industry</p><p>It is 8pm on a Saturday evening and eight of us are sitting at a table onboard a ship, holding on to our plates of spaghetti carbonara as our chairs slide back and forth. Michel Péry, the dinner’s host, downplays the weather as a “<em>tempête de journalistes” – </em>something sailors would not categorise as a storm, but which drama-seeking journalists might refer to as such to entertain their readers.</p><p>But after a white-knuckle night in our cabins with winds reaching 74mph or force 12 – officially a hurricane – Péry has to admit it was not just a “journalists’ storm”, but the real deal.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/19/shipping-carbon-emissions-neoliner-origin-cargo-age-of-sail\">Continue reading...</a>",
+        "text": "<p>It is one of the world’s most vital carbon sinks, but this tropical rainforest is losing out when it comes to climate policy and funding</p><p>In October 2023, leaders, scientists and policymakers from <a href=\"https://www.thethreebasinsummit.org/\">three of the world’s great rainforest regions</a> – the Amazon, the Congo, and the Borneo-Mekong basins – assembled in Brazzaville, capital of the Republic of Congo. They were there to discuss one urgent question: how to save the planet’s last great tropical forests from accelerating destruction.</p><p>For those present, the question was existential. But to their dismay, almost no one noticed. “There was very little acknowledgment that this was happening, outside of the Congo basin region,” says Prof Simon Lewis, a lecturer at the University of Leeds and University College London, and co-chair of the <a href=\"https://congobasinscience.net/\">Congo Basin Science Initiative</a> (CBSI).</p> <a href=\"https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 1
       },
@@ -70,39 +124,21 @@
         "text": "Combu Island – Ilha do Combu in Portuguese – rises like a wall of living green from Brazil’s Guamá River. It is a testament to centuries of shared existence between the forest and its riverside communities. Here, cupuaçu, taperebá, pupunha, araçá and cacao are more than fruits; they are threads in the fabric of local culture, livelihoods and identity.",
         "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-11-25-ONUNews-IlhaCombu-05.png/image560x340cropped.jpg",
         "cluster_id": 1
-      },
-      {
-        "title": "These rare whales had never been seen alive. Then a team in Mexico sighted two",
-        "url": "https://www.theguardian.com/environment/2025/nov/17/rare-gingko-toothed-beaked-whale-science-cetacean-research",
-        "date": "2025-11-17",
-        "source": "Environment | The Guardian",
-        "text": "<p>The search for a ginkgo-toothed beaked whale had taken five years, when a thieving albatross nearly ruined it all</p><p>It was an early morning in June 2024 and along the coast of Baja California in Mexico, scientists on the Pacific Storm research vessel were finishing their coffee and preparing for a long day searching for some of the most elusive creatures on the planet. Suddenly a call came from the bridge: “Whales! Starboard side!”</p><p>For the next few hours, what looked like a couple of juvenile beaked whales kept surfacing and disappearing until finally Robert Pitman, a now-retired researcher at Oregon State University, fired a small arrow from a modified crossbow at the back of one of them.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/17/rare-gingko-toothed-beaked-whale-science-cetacean-research\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 1
       }
     ],
     "source_link": "Environment | The Guardian",
-    "summary": "The enormous, serpentine fish, regarded in Japanese folklore as a herald of disaster, usually live deep below the surface and are only sighted when sick or dying. It washed ashore in north-west Tasmania on Friday.",
+    "summary": "Europe is heavily dependent on China for supplies of the world's 17 rare earth elements. Officials from Germany and the Netherlands are in Beijing this week for talks with their Chinese counterparts on China's controls on rare earths exports and semiconductor chips.",
     "image_url": null
   },
   {
     "articles": [
       {
-        "title": "Cop30 live: standoff over inclusion of fossil fuel phaseout in final text escalates",
-        "url": "https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates",
+        "title": "Can industrial growth and climate action go hand in hand?",
+        "url": "https://news.un.org/feed/view/en/story/2025/11/1166421",
         "date": "2025-11-21",
-        "source": "Environment | The Guardian",
-        "text": "<p>Following a dramatic fire yesterday, the climate summit is due to finish this evening, but disagreements over the final text look difficult to resolve</p><p>Away from the hustle and bustle of this year’s Cop esteemed Guardian journalist Paul Brown takes a poignant and sobering long view of the process in his final column.</p><p>As we wait for more reaction to the text it is worth catching up with this piece on Saudi Arabia and its role as the biggest blocker of climate action – even while its population wrestle with the devastating impacts of the climate crisis.</p> <a href=\"https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 2
-      },
-      {
-        "title": "Cop30 draft text omits mention of fossil fuel phase-out roadmap",
-        "url": "https://www.theguardian.com/environment/2025/nov/21/cop30-countries-threaten-block-resolution-unless-roadmap-to-fossil-fuel-phase-out",
-        "date": "2025-11-21",
-        "source": "Environment | The Guardian",
-        "text": "<p>Exclusive: Summit leadership releases new text despite 29 nations threatening to block progress without commitment </p><p>A new draft text on the outcome of the Cop30 climate talks has been published that contains no mention of a phase-out of fossil fuels, despite countries supporting such action having threatened to block any agreement without it.</p><p>The Guardian revealed on Thursday night that at least 29 nations supporting a phase-out of fossil fuels at the climate summit had sent a letter to the Brazilian Cop presidency threatening to block any agreement that did not include such a commitment, in a significant escalation of tensions at the crunch talks. The leaked letter demanded that the roadmap be included in the outcome of the talks, which are due to end on Friday but are likely to continue into the weekend.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/21/cop30-countries-threaten-block-resolution-unless-roadmap-to-fossil-fuel-phase-out\">Continue reading...</a>",
-        "image_url": null,
+        "source": "UN News - Global perspective Human stories",
+        "text": "Do higher living standards in developing countries have to mean more polluting, fossil-fuel dependent industries? Or is a low-carbon alternative possible? As the world grapples with climate change, economic inequality, and rapid technological shifts, next week’s Global Industry Summit will tackle these questions, bringing together governments, business leaders, and innovators to shape solutions that balance prosperity with sustainability.&nbsp;",
+        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-07-2025-Green-Hydrogen-Brazil.jpg/image560x340cropped.jpg",
         "cluster_id": 2
       },
       {
@@ -112,24 +148,6 @@
         "source": "Environment | The Guardian",
         "text": "<p>Climate sceptics tell us that more people die of extreme cold than extreme heat. What’s the truth?</p><p>I began by trying to discover whether or not a widespread belief was true. In doing so, I tripped across something even bigger: an index of the world’s indifference. I already knew that by burning fossil fuels, gorging on <a href=\"https://interactive.carbonbrief.org/what-is-the-climate-impact-of-eating-meat-and-dairy/index.html\">meat and dairy</a>, and failing to make even simple changes, the rich world imposes a massive burden of disaster, displacement and death on people whose responsibility for the climate crisis is minimal. What I’ve now stumbled into is the vast black hole of our ignorance about these impacts.</p><p>What I wanted to discover was whether it’s true that nine times as many of the world’s people die of cold than of heat. The <a href=\"https://www.fraserinstitute.org/commentary/misinformed-hyped-heat-deaths-and-ignored-cold-deaths\">figure is often used</a> by people who want to delay climate action: if we do nothing, some maintain, fewer will die. Of course, they gloss over all the other impacts of climate breakdown: the storms, floods, droughts, fires, crop failures, disease and sea level rise. But is this claim, at least, correct?</p><p>George Monbiot is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2025/nov/21/black-hole-in-climate-data-climate-sceptics-extreme-heat\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 2
-      },
-      {
-        "title": "‘The world is watching’: Guterres and Lula urge unity as COP30 talks near deadline",
-        "url": "https://news.un.org/feed/view/en/story/2025/11/1166417",
-        "date": "2025-11-20",
-        "source": "UN News - Global perspective Human stories",
-        "text": "With the clock ticking on climate negotiations in Belém, UN Secretary-General António Guterres and Brazil’s President Luiz Inácio Lula da Silva, speaking separately, delivered a united message: the world is watching, and compromise cannot wait.",
-        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/20-11-2025_UNFCCC_COP30-01.jpg/image560x340cropped.jpg",
-        "cluster_id": 2
-      },
-      {
-        "title": "What’s at stake in the COP30 negotiations?",
-        "url": "https://news.un.org/feed/view/en/story/2025/11/1166415",
-        "date": "2025-11-20",
-        "source": "UN News - Global perspective Human stories",
-        "text": "Talks at the COP30 climate summit in Belém, Brazil, were suspended on Thursday after a fire broke out in the venue, triggering evacuations that halted negotiations between more than 190 delegations. With the summit set to conclude Friday, the disruption came at a critical moment as countries were locked in tense debates over fossil fuels and climate finance. The outcome of these talks is widely seen as a litmus test for turning decades of climate pledges into concrete action.",
-        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/20-11-2025-UNFCCC-COP30-01.jpg/image560x340cropped.jpg",
         "cluster_id": 2
       },
       {
@@ -146,7 +164,7 @@
         "url": "https://www.theguardian.com/us-news/2025/nov/20/pelosi-trump-con-job-climate",
         "date": "2025-11-20",
         "source": "Environment | The Guardian",
-        "text": "<p>US speaker emerita criticizes Trump’s anti-climate stance and his remarks to the UN general assembly</p><p>“President Trump is the biggest con job in American history,” said Nancy Pelosi, the US speaker emerita, to reporters on Thursday while criticizing his anti-climate agenda.</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> told the UN general assembly in September that the climate crisis was “the greatest con job ever perpetrated on the world”. But he was “projecting”, Pelosi said at a press conference. The meeting was convened by Democrats on the Senate Committee on Environment and Public Works to comment on the US’s official absence from the United Nations <a href=\"https://www.theguardian.com/environment/cop30\">Cop30</a> climate summit in Belém, Brazil, where 195 countries are represented.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/20/pelosi-trump-con-job-climate\">Continue reading...</a>",
+        "text": "<p>US speaker emerita criticizes Trump’s anti-climate stance and his remarks to the UN general assembly</p><p>“President Trump is the biggest con job in American history,” said Nancy Pelosi, the US speaker emerita, to reporters on Thursday while criticizing his anti-climate agenda.</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> told the UN general assembly in September that the climate crisis was “the greatest con job ever perpetrated on the world”. But he was “projecting”, Pelosi said at a press conference. The meeting was convened by Democrats on the Senate committee on environment and public works to comment on the US’s official absence from the United Nations <a href=\"https://www.theguardian.com/environment/cop30\">Cop30</a> climate summit in Belém, Brazil, where 195 countries are represented.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/20/pelosi-trump-con-job-climate\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 2
       },
@@ -169,11 +187,11 @@
         "cluster_id": 2
       },
       {
-        "title": "Australia’s failed bid to host Cop31 looks like a mess – but it may actually be the best result possible | Adam Morton",
-        "url": "https://www.theguardian.com/environment/2025/nov/20/australia-cop31-failed-host-bid-outcome-chris-bowen-climate",
-        "date": "2025-11-20",
+        "title": "People in the US: tell us how the climate crisis has affected your life in small ways this year",
+        "url": "https://www.theguardian.com/environment/2025/nov/19/us-climate-crisis-effect-everyday-life",
+        "date": "2025-11-19",
         "source": "Environment | The Guardian",
-        "text": "<p>While the outcome is a let down for those who want Australia to do better on climate, Chris Bowen looks set to play a pivotal role in the UN talks</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here</a></p></li></ul><p>Ouch. From one perspective, Australia’s long-running bid to host the Cop31 UN climate conference next year has ended in clear failure.</p><p>It campaigned for more than three years for the right to put on the world’s biggest climate summit and green trade fair, which would have brought tens of thousands of people to the South Australian capital of Adelaide next November.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/20/australia-cop31-failed-host-bid-outcome-chris-bowen-climate\">Continue reading...</a>",
+        "text": "<p>We want to hear about how these shifts showed up in your everyday lives this year</p><p>The climate crisis is reshaping our lives: extreme weather events are intensifying, extinctions are accelerating and the urgency for both adaptation and intervention only increase.</p><p>But there are also the smaller, more personal impacts. Perhaps it’s not being able to fish with your kids in the place where your childhood memories were made because the river has dried up. Maybe it’s not being able to gather around a campfire in the summer, due to wildfire risks and restrictions. It can be the loss of a favorite tree, a personal sacrifice you’ve made for the greater good, or a change you’ve observed through the seasons.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/19/us-climate-crisis-effect-everyday-life\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 2
       },
@@ -187,24 +205,6 @@
         "cluster_id": 2
       },
       {
-        "title": "Europe has rare earths but, for now, it's at China's mercy like everyone else",
-        "url": "https://www.cnbc.com/2025/11/19/europe-has-rare-earths-but-for-now-its-at-chinas-mercy.html",
-        "date": "2025-11-19",
-        "source": "Energy",
-        "text": "Like the U.S., Europe is also feeling the pressure to keep China sweet in order to maintain supplies of rare earth elements, which are vital for its strategic industries in the region such as auto production, green energy and defense.\n\nEurope is heavily dependent on China for supplies of the world's 17 rare earth elements and has been looking to calm stormy waters with Beijing over supplies, while looking for alternative sources of critical minerals — including in its own back yard.\n\nThat's a long process, however, and for now, Europe is as vulnerable as other major consumers of rare earths, and particularly the U.S., when it comes to Beijing's ability to turn the tap off on supplies.\n\nOfficials from Germany and the Netherlands are in Beijing this week for talks with their Chinese counterparts on China's controls on rare earths exports and semiconductor chips which have made European industries vulnerable to global supply chain disruptions.\n\nChina dominates the rare earths market from mining to refining, with data from the International Energy Agency showing that, in 2024, China was responsible for 59% of the world's rare earths mining, 91% of its refining and 94% of the manufacuring of permanent magnets which are commonly used in electric vehicles, wind turbines, industrial motors, data centers and defense systems.\n\nAs the world's single largest supplier of a component that's critical to so much manufacturing, China's dominance has made \"global supply chains in strategic sectors – such as energy, automotive, defense and AI data centres – vulnerable to potential disruptions,\" the IEA noted.\n\nThat potential for disruption came to the fore this year when, in April and October, Beijing announced licensing requirements, and later export controls, on its rare earth supplies and technologies.\n\nThose controls were suspended for a year as a result of a trade truce reached in October between China and the U.S. reached but major rare earth importers such as the U.S. and EU, which imports around 70% of rare earth supplies — and almost all of its rare earth magnets — from China, are all too aware of its vulnerabilities to geopolitical disruptions.",
-        "image_url": null,
-        "cluster_id": 2
-      },
-      {
-        "title": "The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?",
-        "url": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe",
-        "date": "2025-11-18",
-        "source": "Environment | The Guardian",
-        "text": "<p>It is one of the world’s most vital carbon sinks, but this tropical rainforest is losing out when it comes to climate policy and funding</p><p>In October 2023, leaders, scientists and policymakers from <a href=\"https://www.thethreebasinsummit.org/\">three of the world’s great rainforest regions</a> – the Amazon, the Congo, and the Borneo-Mekong basins – assembled in Brazzaville, capital of the Republic of Congo. They were there to discuss one urgent question: how to save the planet’s last great tropical forests from accelerating destruction.</p><p>For those present, the question was existential. But to their dismay, almost no one noticed. “There was very little acknowledgment that this was happening, outside of the Congo basin region,” says Prof Simon Lewis, a lecturer at the University of Leeds and University College London, and co-chair of the <a href=\"https://congobasinscience.net/\">Congo Basin Science Initiative</a> (CBSI).</p> <a href=\"https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 2
-      },
-      {
         "title": "Sussan Ley, it’s time we took a look at your climate policy report card. You appear to have learned nothing | Tristan Edis",
         "url": "https://www.theguardian.com/commentisfree/2025/nov/18/sussan-its-time-we-took-a-look-at-your-climate-policy-report-card-you-appear-to-have-learned-nothing",
         "date": "2025-11-18",
@@ -214,67 +214,76 @@
         "cluster_id": 2
       },
       {
-        "title": "COP30 enters its final stretch: urgency, ambition, and voices from the streets",
-        "url": "https://news.un.org/feed/view/en/story/2025/11/1166390",
-        "date": "2025-11-17",
-        "source": "UN News - Global perspective Human stories",
-        "text": "The last week of COP30 has begun in Belém with a palpable sense of urgency. Ministers and senior officials are now stepping into the spotlight, as negotiations move from technical wrangling to political decision-making. The stakes? Nothing less than charting a credible path to climate justice in a world running out of time.",
-        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/25-11-17-COP30-indigenous.jpg/image560x340cropped.jpg",
-        "cluster_id": 2
-      }
-    ],
-    "source_link": "Environment | The Guardian",
-    "summary": "A new draft text on the outcome of the Cop30 climate talks has been published. It contains no mention of a phase-out of fossil fuels, despite countries supporting such action having threatened to block any agreement without it. The Guardian revealed on Thursday night that at least 29 nations supporting a phase out of fossil fuel had sent a letter to the Brazilian Cop presidency.",
-    "image_url": null
-  },
-  {
-    "articles": [
-      {
-        "title": "Quebec lake breaks bank and empties out downstream – video",
-        "url": "https://www.theguardian.com/world/video/2025/nov/20/quebec-lake-breaks-bank-and-empties-out-downstream-video",
-        "date": "2025-11-20",
-        "source": "Environment | The Guardian",
-        "text": "<p>The reason for the disappearance of Lac Rouge in Quebec, Canada, is not confirmed, but the trigger may have been a combination of heavy rainfall and wildfires having rendered the surrounding soil more water-repellent. </p><p>Tree root systems allow for greater water retention, meaning soil is able to absorb more water as snow melts in spring. Nicolas Mainville, the conservation and climate director at Snap Quebec, said: 'Flying over the area reveals how huge swathes of forest have been completely removed by salvage logging and post-fire scarification. </p><p>'The forest is fragile. It is time to better protect the land'</p> <a href=\"https://www.theguardian.com/world/video/2025/nov/20/quebec-lake-breaks-bank-and-empties-out-downstream-video\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 3
-      },
-      {
-        "title": "In the Amazon, a school becomes a beacon of climate resilience",
-        "url": "https://news.un.org/feed/view/en/story/2025/11/1166408",
-        "date": "2025-11-19",
-        "source": "UN News - Global perspective Human stories",
-        "text": "The boat ride from Belém to Barcarena is a journey through shimmering waterways and emerald forest, where the Amazon meets the Atlantic in a sweep of beauty. But beneath the postcard-perfect scene, climate change is quietly rewriting the rules of life.",
-        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/19-11-25-ONUNews-Barcarena03.png/image560x340cropped.jpg",
-        "cluster_id": 3
-      },
-      {
-        "title": "People in the US: tell us how the climate crisis has affected your life in small ways this year",
-        "url": "https://www.theguardian.com/environment/2025/nov/19/us-climate-crisis-effect-everyday-life",
-        "date": "2025-11-19",
-        "source": "Environment | The Guardian",
-        "text": "<p>We want to hear about how these shifts showed up in your everyday lives this year</p><p>The climate crisis is reshaping our lives: extreme weather events are intensifying, extinctions are accelerating and the urgency for both adaptation and intervention only increase.</p><p>But there are also the smaller, more personal impacts. Perhaps it’s not being able to fish with your kids in the place where your childhood memories were made because the river has dried up. Maybe it’s not being able to gather around a campfire in the summer, due to wildfire risks and restrictions. It can be the loss of a favorite tree, a personal sacrifice you’ve made for the greater good, or a change you’ve observed through the seasons.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/19/us-climate-crisis-effect-everyday-life\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 3
-      }
-    ],
-    "source_link": "Environment | The Guardian",
-    "summary": "The reason for the disappearance of Lac Rouge in Quebec, Canada, is not confirmed, but the trigger may have been a combination of heavy rainfall and wildfires. Nicolas Mainville, the conservation and climate director at Snap Quebec, said: 'The forest is fragile. It is time to better protect the land'",
-    "image_url": null
-  },
-  {
-    "articles": [
-      {
         "title": "France’s birds start to show signs of recovery after bee-harming pesticide ban",
         "url": "https://www.theguardian.com/environment/2025/nov/17/france-wildlife-insect-bird-numbers-rise-neonicotinoid-pesticide-ban-aoe",
         "date": "2025-11-17",
         "source": "Environment | The Guardian",
         "text": "<p>Analysis shows small hike in populations of insect-eating species after 2018 ruling, but full recovery may take decades</p><p>Insect-eating bird populations in France appear to be making a tentative recovery after a ban on bee-harming pesticides, according to the first study to examine how wildlife is returning in Europe.</p><p>Neonicotinoids are the world’s most common class of insecticides, widely used in agriculture and for flea control in pets. By 2022, four years after the European Union <a href=\"https://www.theguardian.com/environment/2018/apr/27/eu-agrees-total-ban-on-bee-harming-pesticides\">banned neonicotinoid use in fields</a>, researchers observed that France’s population of insect-eating birds had increased by 2%-3%. These included blackbirds, blackcaps and chaffinches, which feed on insects as adults and as chicks.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/17/france-wildlife-insect-bird-numbers-rise-neonicotinoid-pesticide-ban-aoe\">Continue reading...</a>",
         "image_url": null,
+        "cluster_id": 2
+      }
+    ],
+    "source_link": "UN News - Global perspective Human stories",
+    "summary": "Next week’s Global Industry Summit will tackle these questions. It will bring together governments, business leaders, and innovators. Do higher living standards in developing countries have to mean more polluting, fossil-fuel dependent industries? Is a low-carbon alternative possible?",
+    "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-07-2025-Green-Hydrogen-Brazil.jpg/image560x340cropped.jpg"
+  },
+  {
+    "articles": [
+      {
+        "title": "Sycamore Gap tree saplings to be planted across UK",
+        "url": "https://www.theguardian.com/environment/2025/nov/22/sycamore-gap-tree-saplings-planted-trees-of-hope",
+        "date": "2025-11-22",
+        "source": "Environment | The Guardian",
+        "text": "<p>National Trust begins planting the 49 ‘trees of hope’ so the illegally felled tree can live on in a positive way</p><p>Saplings from the felled Sycamore Gap tree are to be planted across the UK, including at a pit disaster site, a town still healing from the Troubles and a place which became an international symbol of peace, protest and feminism.</p><p>The National Trust said planting of 49 saplings, <a href=\"https://www.theguardian.com/uk-news/2024/sep/27/trees-of-hope-sycamore-gap-tree-saplings-to-be-planted-around-uk\">known as “trees of hope</a>”, would begin on Saturday. It is hoped that the sycamore will live on in a positive, inspirational way.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/22/sycamore-gap-tree-saplings-planted-trees-of-hope\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 3
+      },
+      {
+        "title": "Week in wildlife: traffic-stopping reindeer, wildcats and a giraffe on the move",
+        "url": "https://www.theguardian.com/environment/gallery/2025/nov/21/week-in-wildlife-traffic-stopping-reindeer-wildcats-and-a-giraffe-on-the-move",
+        "date": "2025-11-21",
+        "source": "Environment | The Guardian",
+        "text": "<p>This week’s best wildlife photographs from around the world</p> <a href=\"https://www.theguardian.com/environment/gallery/2025/nov/21/week-in-wildlife-traffic-stopping-reindeer-wildcats-and-a-giraffe-on-the-move\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 3
+      }
+    ],
+    "source_link": "Environment | The Guardian",
+    "summary": "National Trust begins planting the 49 ‘trees of hope’ so the illegally felled tree can live on in a positive way. Saplings from the felled Sycamore Gap tree are to be planted across the UK.",
+    "image_url": null
+  },
+  {
+    "articles": [
+      {
+        "title": "Nazi bombs, torpedo heads and mines: how marine life thrives on dumped weapons",
+        "url": "https://www.theguardian.com/environment/2025/nov/20/oceans-germany-baltic-sealife-reefs-toxic-second-world-war-munitions-aoe",
+        "date": "2025-11-20",
+        "source": "Environment | The Guardian",
+        "text": "<p>Scientists discover thousands of sea creatures have made their homes amid the detritus of abandoned second world war munitions off the coast of Germany</p><p>In the brackish waters off the German coast lies a wasteland of Nazi bombs, torpedo heads and mines. Thrown off barges at the end of the second world war and forgotten about, thousands of munitions have become matted together over the years. They form a rusting carpet on the shallow, muddy seafloor of the Bay of Lübeck in the western tip of the Baltic Sea.</p><p>Over the decades, the Nazi arsenal was ignored and forgotten about. A growing number of tourists flocked to the sandy beaches and calm waters for jetskiing, kite surfing and amusement parks. Beneath the surface, the weapons decayed.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/20/oceans-germany-baltic-sealife-reefs-toxic-second-world-war-munitions-aoe\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 4
+      },
+      {
+        "title": "Onboard the world’s largest sailing cargo ship: is this the future of travel and transport?",
+        "url": "https://www.theguardian.com/environment/2025/nov/19/shipping-carbon-emissions-neoliner-origin-cargo-age-of-sail",
+        "date": "2025-11-19",
+        "source": "Environment | The Guardian",
+        "text": "<p>The Neoliner Origin set off on its inaugural two-week voyage from France to the US with the aim of revolutionising the notoriously dirty shipping industry</p><p>It is 8pm on a Saturday evening and eight of us are sitting at a table onboard a ship, holding on to our plates of spaghetti carbonara as our chairs slide back and forth. Michel Péry, the dinner’s host, downplays the weather as a “<em>tempête de journalistes” – </em>something sailors would not categorise as a storm, but which drama-seeking journalists might refer to as such to entertain their readers.</p><p>But after a white-knuckle night in our cabins with winds reaching 74mph or force 12 – officially a hurricane – Péry has to admit it was not just a “journalists’ storm”, but the real deal.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/19/shipping-carbon-emissions-neoliner-origin-cargo-age-of-sail\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 4
+      },
+      {
+        "title": "These rare whales had never been seen alive. Then a team in Mexico sighted two",
+        "url": "https://www.theguardian.com/environment/2025/nov/17/rare-gingko-toothed-beaked-whale-science-cetacean-research",
+        "date": "2025-11-17",
+        "source": "Environment | The Guardian",
+        "text": "<p>The search for a ginkgo-toothed beaked whale had taken five years, when a thieving albatross nearly ruined it all</p><p>It was an early morning in June 2024 and along the coast of Baja California in Mexico, scientists on the Pacific Storm research vessel were finishing their coffee and preparing for a long day searching for some of the most elusive creatures on the planet. Suddenly a call came from the bridge: “Whales! Starboard side!”</p><p>For the next few hours, what looked like a couple of juvenile beaked whales kept surfacing and disappearing until finally Robert Pitman, a now-retired researcher at Oregon State University, fired a small arrow from a modified crossbow at the back of one of them.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/17/rare-gingko-toothed-beaked-whale-science-cetacean-research\">Continue reading...</a>",
+        "image_url": null,
         "cluster_id": 4
       }
     ],
     "source_link": "Environment | The Guardian",
-    "summary": "Insect-eating bird populations in France appear to be making a tentative recovery after a ban on bee-harming pesticides. Neonicotinoids are the world’s most common class of insecticides, widely used in agriculture and for flea control in pets.",
+    "summary": "Thousands of munitions have become matted together over the years. They form a rusting carpet on the shallow, muddy seafloor of the Bay of Lübeck in the western tip of the Baltic Sea.",
     "image_url": null
   }
 ]
