@@ -2,6 +2,15 @@
   {
     "articles": [
       {
+        "title": "Death toll passes 900 in Indonesia, Thailand and Sri Lanka floods",
+        "url": "https://www.theguardian.com/world/2025/nov/30/indonesia-thailand-floods",
+        "date": "2025-11-30",
+        "source": "Environment | The Guardian",
+        "text": "<p>Officials in Indonesia say more than 442 people have died, while Sri Lanka suffers worst natural disaster since 2004 tsunami </p><p>Authorities in Sri Lanka, Indonesia and Thailand are racing to clear debris and find hundreds of missing people after more than 900 died in <a href=\"https://www.theguardian.com/world/2025/nov/29/indonesia-and-thailand-flooding-death-toll-tops-350-as-rescuers-struggle-to-reach-worst-hit-areas\">devastating floods</a> and landslides across the south of Asia.</p><p>In the latest example of the impact of the climate crisis on storm patterns and extreme weather, heavy monsoon rains, exacerbated by a tropical storm, have overwhelmed parts of south-east Asia in recent days, leaving thousands of people stranded without shelter or critical supplies.</p> <a href=\"https://www.theguardian.com/world/2025/nov/30/indonesia-thailand-floods\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 0
+      },
+      {
         "title": "The bird people of Lake Manchar: surviving in a vanishing oasis",
         "url": "https://www.theguardian.com/environment/2025/nov/26/bird-people-lake-manchar-mohana-pakistan-surviving-aoe-aoe",
         "date": "2025-11-26",
@@ -21,29 +30,27 @@
       }
     ],
     "source_link": "Environment | The Guardian",
-    "summary": "The Mohana of Pakistan’s Sindh province once thrived on the lake. But pollution and drought have caused the fragile ecosystem to collapse.",
+    "summary": "Officials in Indonesia say more than 442 people have died, while Sri Lanka suffers worst natural disaster since 2004 tsunami. Authorities in Sri Lanka, Indonesia and Thailand are racing to clear debris and find hundreds of missing people.",
     "image_url": null
   },
   {
     "articles": [
       {
-        "title": "Water shortages could derail UK’s net zero plans, study finds",
-        "url": "https://www.theguardian.com/environment/2025/nov/30/water-shortages-could-derail-uk-net-zero-plans-study-finds",
-        "date": "2025-11-30",
+        "title": "Zombie fires: how Arctic wildfires that come back to life are ravaging forests",
+        "url": "https://www.theguardian.com/environment/2025/nov/24/zombie-fires-arctic-wildfires-reignite-ravaging-forests-aoe",
+        "date": "2025-11-24",
         "source": "Environment | The Guardian",
-        "text": "<p>Tensions grow after research in England finds there may not be enough water for planned carbon capture and hydrogen projects</p><ul><li><p><a href=\"http://www.theguardian.com/environment/2025/nov/29/climate-crisis-depleting-europe-groundwater-reserves-analysis\">Revealed: Europe’s water reserves drying up due to climate breakdown</a></p></li></ul><p>Tensions are growing between the government, the water sector and its regulators over the management of England’s water supplies, as the Environment Agency warns of a potential widespread drought next year.</p><p>Research commissioned by a water retailer has found water scarcity could hamper the UK’s ability to reach its net zero targets, and that industrial growth could push some areas of the country into water shortages.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/30/water-shortages-could-derail-uk-net-zero-plans-study-finds\">Continue reading...</a>",
+        "text": "<p>Blazes that smoulder in the permafrost, only to reignite, are extending fire season though winter, leaving vegetation struggling to recover</p><p>In May 2023, a lightning strike hit the forest in Donnie Creek, British Columbia, and the trees started to burn. It was early in the year for a wildfire, but a dry autumn and warm spring had turned the forest into a tinderbox, and the flames spread rapidly. By mid-June, the fire had become one of largest in the province’s history, burning through an area of boreal forest nearly twice the size of central London. That year, more of Canada burned than ever before.</p><p>The return of cold and snow at the close of the year typically signal the end of the wildfire season. But this time, the fire did not stop. Instead, it smouldered in the soil underground, insulated from the freezing conditions by the snowpack. The next spring, it reemerged as a “zombie fire” that continued to burn until August 2024. By then, <a href=\"https://www.theguardian.com/world/2023/aug/08/canadian-wildfire-fighters-scramble-amid-nightmare-season\">more than 600,000 hectares (1.5m acres) had been destroyed</a>.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/24/zombie-fires-arctic-wildfires-reignite-ravaging-forests-aoe\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 1
-      },
-      {
-        "title": "Rising Tide protest: climate activists stop three ships from entering world’s largest coal port in Newcastle",
-        "url": "https://www.theguardian.com/environment/2025/nov/30/rising-tide-protest-climate-activists-stop-three-ships-from-entering-worlds-largest-coal-port-in-newcastle",
-        "date": "2025-11-30",
-        "source": "Environment | The Guardian",
-        "text": "<p>NSW police arrest 141 people as campaigners demand federal government cancel planned fossil fuel projects and tax existing operations at 78%</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/nov/30/australia-news-live-jetstar-flights-resume-anthony-albanese-sussan-ley-labor-part-coalition-melbourne-metro-tunnel-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Activists have blocked two more coal ships from entering the Port of Newcastle on the fourth day of the Rising Tide protest, bringing the total number of ships turned around by campaigners this weekend to three.</p><p>Thousands of people have <a href=\"https://www.theguardian.com/australia-news/2025/nov/28/australia-protestival-newcastle-rising-tide-music-climate-change\">gathered at Rising Tide’s annual climate protest</a> at the world’s largest coal port. The blockade began on Thursday and will continue until Tuesday. Hundreds have kayaked into the port, with many more watching on from the beach.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/30/rising-tide-protest-climate-activists-stop-three-ships-from-entering-worlds-largest-coal-port-in-newcastle\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 1
-      },
+      }
+    ],
+    "source_link": "Environment | The Guardian",
+    "summary": "In May 2023, a lightning strike hit the forest in Donnie Creek, British Columbia, and the trees started to burn. A dry autumn and warm spring had turned the forest into a tinderbox. By mid-June, the fire had become one of largest in the province’s history.",
+    "image_url": null
+  },
+  {
+    "articles": [
       {
         "title": "‘We need to speak collectively’: can parliament solve the problem of ‘deprivation bingo’ in the UK’s seaside towns?",
         "url": "https://www.theguardian.com/environment/2025/nov/30/we-need-to-speak-collectively-can-parliament-solve-the-problem-of-deprivation-bingo-in-the-uks-seaside-towns",
@@ -51,16 +58,68 @@
         "source": "Environment | The Guardian",
         "text": "<p>Labour knows it needs to win over the ‘sea wall’ cohort of coastal voters in the next election. But as anger over inequality grows, time is running out</p><p>It is a lovely sunny autumn day in Ramsgate on Britain’s Kent coast, and quintessential seaside chippy Peter’s Fish Factory is doing a roaring lunchtime trade. Across the road, at the entrance to the town’s pier, local MP and chair of the newly reformed coastal parliamentary Labour party (PLP), Polly Billington, is having her photo taken.</p><p>In between shots she shows us <a href=\"https://theisleofthanetnews.com/2025/09/18/ramsgate-royal-harbour-display-celebrating-world-war-twos-operation-dynamo-and-the-little-ships/\">the community art project</a> that adorns the fence along the entrance to the pier. It is made up of pictures, drawn primarily by local children and young people, of <a href=\"https://www.classicboat.co.uk/news/dunkirk-85th-anniversary-little-ships-fleet-cross-the-channel/\">the 65 little ships that set sail earlier this year</a> from Ramsgate to commemorate the 85th anniversary of the Dunkirk evacuation.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/30/we-need-to-speak-collectively-can-parliament-solve-the-problem-of-deprivation-bingo-in-the-uks-seaside-towns\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 1
+        "cluster_id": 2
       },
       {
-        "title": "‘Deeply demoralizing’: how Trump derailed coal country’s clean-energy revival",
-        "url": "https://www.theguardian.com/environment/2025/nov/29/trump-coal-country",
-        "date": "2025-11-29",
+        "title": "‘Hunger has left its mark on me’: a Native woman reflects on her rich but food-scarce life",
+        "url": "https://www.theguardian.com/environment/2025/nov/24/hunger-native-woman",
+        "date": "2025-11-24",
         "source": "Environment | The Guardian",
-        "text": "<p>Biden earmarked billions for former coal communities in Appalachia – and his successor came and took it away</p><p>For a moment, Jacob Hannah saw an unprecedented opportunity to make Appalachia great again.</p><p>In 2022, the Biden administration earmarked billions of dollars to help revitalize and strengthen former coal communities. The objective was to lay down building blocks for the region to transition from extractive industries like coal and timber to a hub for solar and other advanced energy technologies, with a view to long-term economic, climate and social resilience.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/29/trump-coal-country\">Continue reading...</a>",
+        "text": "<p>Hunger is part of American life. Even as a professional adult, it’s never too far from Dr Angie Morrill’s thoughts</p><p>I asked my older sister why we sang the Patty Cake song so often as children: <em>Patty cake, patty cake, baker’s man. Bake me a cake as fast as you can!</em> She replied simply: “Because we were hungry.”</p><p>Her answer stayed with me, and I thought about some happy memories: mom making Toll House cookies while The Wizard of Oz played on television. Delivering baked goods to elders and friends in our Native urban community at Christmas; we are enrolled citizens in the Klamath Tribes, whose traditional homelands are in southern Oregon and northern California. Sharing food is a cultural value for Native people. Mom taught us to always offer food and drinks to our guests. It’s also important to have enough food to share.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/24/hunger-native-woman\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 1
+        "cluster_id": 2
+      }
+    ],
+    "source_link": "Environment | The Guardian",
+    "summary": "Labour knows it needs to win over the ‘sea wall’ cohort of coastal voters in the next election. But as anger over inequality grows, time is running out.",
+    "image_url": null
+  },
+  {
+    "articles": [
+      {
+        "title": "Wood-burning stoves could face partial ban in Labour’s updated environment plan",
+        "url": "https://www.theguardian.com/environment/2025/dec/01/wood-burning-stoves-to-face-partial-ban-in-labours-updated-environment-plan",
+        "date": "2025-12-01",
+        "source": "Environment | The Guardian",
+        "text": "<p>Exclusive: Pollution targets set out alongside nature recovery projects to allay concerns over housebuilding</p><p>Wood-burning stoves are likely to face tighter restrictions in England under new pollution targets set as part of an updated environmental plan released by ministers on Monday.</p><p>Speaking to the Guardian before the publication of the updated environmental improvement plan (EIP), the environment secretary, Emma Reynolds, said it would boost nature recovery in a number of areas, replacing an EIP under the last government she said was “not credible”.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/01/wood-burning-stoves-to-face-partial-ban-in-labours-updated-environment-plan\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 3
+      },
+      {
+        "title": "EPA urged to ban spraying of antibiotics on US food crops amid resistance fears",
+        "url": "https://www.theguardian.com/environment/2025/nov/30/antibiotics-spraying-farms-epa-bacteria-resistance",
+        "date": "2025-11-30",
+        "source": "Environment | The Guardian",
+        "text": "<p>Use of 8m pounds of antibiotics and antifungals a year leads to superbugs and damages human health, lawsuit claims</p><p>A new <a href=\"https://u7061146.ct.sendgrid.net/ls/click?upn=u001.gqh-2BaxUzlo7XKIuSly0rCydHCbG70wcdabaaM9rXedBbrZpL-2FnBXALfDOpP7JC4f1LkbNy1p9YKptHHWo-2BvO1HRmRC1O5toLwLFRGuEKe7RY4-2F474M9SAhJiwRVQHGjul7cH2RmA9niCcTjB-2BJQw2ZPHcJ0j5rPMJxPL2VZldyVUClWzo4Nt4EEfwyRKrQtTz1ea_lHfhL5FQIIAolkXgQycRaoZ8r0GqXkvzkUp2VESycz2E-2FSraiWN1-2Fbv0toQeDaafb60CnNqGJQcGSdpYYnsxCysGEIx9GIyHPclTwjeTLFvO3gc-2FhOWWdG2AdnfZbQBk4m8q5arP4Z8z9AN3JN2ffIDOJXqf1hslLmPZZoRIXWwCFPsF3f-2BUFqBRSaNgQmFpzVJ79s8SjAtAylak25kxg8Sj79bQ9OfosWiWCJXnGgjhv4ecxb9q41AeVNib5yupd-2B1ntcpoyyKpJ2Ke9MRoibQAGoz1kIBR-2F9DGMTTIJKeoIQiUJ769fuUOAulQY-2FSlV7ogo5dmlYCoCLZxvaBijnATxmfrSrTFaBtOv-2Bh5eSU-3D\">legal petition</a> filed by a dozen public health and farm worker groups demands the Environmental Protection Agency (EPA) stop allowing farms to spray antibiotics on food crops in the US because they are probably causing superbugs to flourish and sickening farm workers.</p><p>The agricultural industry sprays about 8m pounds of antibiotic and antifungal pesticides on US food crops annually, many of which are banned in other countries.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/30/antibiotics-spraying-farms-epa-bacteria-resistance\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 3
+      },
+      {
+        "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
+        "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
+        "date": "2025-11-27",
+        "source": "Environment | The Guardian",
+        "text": "<p>Ecologically sound farming and land stewardship can change individual, collective and planetary health</p><p>Within Indigenous communities across North America and beyond, we have long known that food is medicine. This isn’t just theory; it’s fact. We understand that seasonal, regionally specific and culturally relevant foods are vital for nurturing, nourishing and healing both our people and our planet. And it’s high time we all embrace the Native American concept of food as medicine.</p><p>Our ancestral wisdom has ensured our survival for millennia, even in the face of unthinkable circumstances like colonialism, genocide and ongoing oppression. This ever-relevant knowledge will ensure our collective survival amid today’s unthinkable circumstances here in the United States, such as political instability, climate change and rising health issues.</p> <a href=\"https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 3
+      },
+      {
+        "title": "‘Nature feeds us more than it floods us’: Asheville after-school program teaches kids to forage",
+        "url": "https://www.theguardian.com/environment/2025/nov/27/asheville-foraging-schools",
+        "date": "2025-11-27",
+        "source": "Environment | The Guardian",
+        "text": "<p>In the wake of Hurricane Helene, No Taste Like Home aims to rebuild trust between students and the land</p><p>Juniper Stewart just turned 12. She wears a cropped orange sweater and her ginger curls in a bob. She used to like Taylor Swift, but now she’s more into the Cranberries and other indie rock.</p><p>Juniper also knows how to identify a Pilobolus mushroom, which grows on “cow poop”, according to Juniper. She can confidently harvest plantain leaf, a ubiquitous wild plant that’s tasty in salads and sautées, and useful as a poultice on stings and poison ivy. She has paper bags full of sourwood leaves drying at home to make tea, and she’s delighted by the fact that when you touch jewelweed seed pods, they explode.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/27/asheville-foraging-schools\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 3
+      },
+      {
+        "title": "Cuddling capybaras and ogling otters: the problem with animal cafes in Asia",
+        "url": "https://www.theguardian.com/environment/2025/nov/27/global-pet-trade-capybaras-bangkok-cafe-animal-cafes-exotic-endangered-species-aoe",
+        "date": "2025-11-27",
+        "source": "Environment | The Guardian",
+        "text": "<p>A boom in places offering petting sessions is linked to a rise in the illegal movement of exotic and endangered species, say experts</p><p>The second floor of an unassuming office building in central Bangkok is a strange place to encounter the world’s largest rodent. Yet here, inside a small enclosure with a shallow pool, three capybaras are at the disposal of dozens of paying customers – all clamouring for a selfie. As people eagerly thrust leafy snacks toward the nonchalant-looking animals, few seem to consider the underlying peculiarity: how, exactly, did this South American rodent end up more than 10,000 miles from home, in a bustling Asian metropolis?</p><p>Capybara cafes have been cropping up across the continent in recent years, driven by the animal’s growing internet fame. The semi-aquatic animals feature in <a href=\"https://www.tiktok.com/tag/capybara?lang=en\">more than 600,000</a> TikTok posts. In Bangkok, cafe customers pay 400 baht (£9.40) for a 30-minute petting session with them, along with a few meerkats and Chinese bamboo rats. Doors are open 12 hours a day, seven days a week.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/27/global-pet-trade-capybaras-bangkok-cafe-animal-cafes-exotic-endangered-species-aoe\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 3
       },
       {
         "title": "Australia finally acknowledges environment underpins all else. That’s no small thing | Ken Henry",
@@ -69,7 +128,7 @@
         "source": "Environment | The Guardian",
         "text": "<p>In what are dangerous times for democracies around the world, parliament’s overhaul of nature laws in the EPBC Act shows ambitious reform remains possible</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The passage of long overdue reforms to the Environmental Protection and Biodiversity Conservation (EPBC) Act demonstrates powerfully that democratic governance is alive and well in Australia.</p><p>The Australian parliament has done its job and passed 21st-century reforms that support a modern economy, enable the creation of new and sustainable jobs while promising not to destroy, but in fact improve, the health of the natural world. <br /></p> <a href=\"https://www.theguardian.com/commentisfree/2025/nov/28/nature-protection-laws-australia-acknowledges-environment-underpins-all\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 1
+        "cluster_id": 3
       },
       {
         "title": "Labor’s nature law overhaul contains wins – but we should watch for gremlins in the details | Adam Morton",
@@ -78,7 +137,7 @@
         "source": "Environment | The Guardian",
         "text": "<p>The Environment Protection and Biodiversity Conservation Act changes are an improvement, but the rush to pass them was purely political</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here</a></p></li></ul><p>We should start at the beginning in assessing the <a href=\"https://www.theguardian.com/australia-news/2025/nov/27/labor-strikes-deal-with-greens-to-pass-long-awaited-overhaul-of-nature-protection-laws\">Labor-Greens deal to revamp Australia’s national environment law</a>. And the beginning is that, ideally, you would not start from here.</p><p>Despite its name, the 1999 Environment Protection and Biodiversity Conservation (EPBC) Act was designed under John Howard to allow developments to go ahead, usually with conditions attached that may limit the damage to nature.</p> <a href=\"https://www.theguardian.com/australia-news/commentisfree/2025/nov/27/labor-nature-law-overhaul-epbc-act-changes-details\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 1
+        "cluster_id": 3
       },
       {
         "title": "The rewriting of Australia’s nature laws comes as a relief, yet I can’t help feel a sense of foreboding | Georgina Woods",
@@ -86,74 +145,6 @@
         "date": "2025-11-27",
         "source": "Environment | The Guardian",
         "text": "<p>The minister says quick approvals can happen while protecting the environment, but my experience tells me that haste brings unintended consequences</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>I got a text from a biodiversity advocate around midday on Thursday asking me: are you glad, or sad?</p><p>I wasn’t sure how to reply.</p> <a href=\"https://www.theguardian.com/commentisfree/2025/nov/27/australia-nature-laws-environment-relief-yet-foreboding\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 1
-      },
-      {
-        "title": "Trump’s EPA moves to abandon tough standards for deadly soot pollution",
-        "url": "https://www.theguardian.com/us-news/2025/nov/26/trump-epa-deadly-soot-pollution-rule",
-        "date": "2025-11-26",
-        "source": "Environment | The Guardian",
-        "text": "<p>EPA had previously said rule reducing fine particle matter from vehicles and industrial sources could prevent thousands of premature deaths a year</p><p>The <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> is seeking to abandon a rule that sets tough standards for deadly soot pollution, arguing that the Biden administration did not have authority to set the tighter standard on pollution from tailpipes, smokestacks and other industrial sources.</p><p>The action follows moves by the administration last week to <a href=\"https://insideclimatenews.org/news/17112025/trump-administration-weakens-waterways-wetlands-federal-protections/\">weaken federal rules protecting millions of acres of wetlands and streams</a> and <a href=\"https://www.theguardian.com/us-news/2025/nov/20/trump-endangered-species-act\">roll back protections for imperiled species</a> and the places they live. In a separate action, the interior department <a href=\"https://www.theguardian.com/us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida\">proposed new oil drilling off the California and Florida coasts</a> for the first time in decades, advancing a project that critics say could harm coastal communities and ecosystems.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/26/trump-epa-deadly-soot-pollution-rule\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 1
-      },
-      {
-        "title": "To defeat the global Goliaths devastating our planet, we must raise an army of Davids | Peter Lewis",
-        "url": "https://www.theguardian.com/australia-news/commentisfree/2025/nov/26/climate-disasters-devastating-planet-collective-action-against-corporations",
-        "date": "2025-11-26",
-        "source": "Environment | The Guardian",
-        "text": "<p>As Australians face a maelstrom of interconnected disasters, the climate catastrophe has become just one of many things to doomscroll about</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2025/nov/25/guardian-essential-poll-only-a-quarter-of-older-australians-believe-climate-change-can-be-prevented\">Guardian Essential poll: only a quarter of older Australians believe climate change can be prevented</a></p></li></ul><p>The Cop30 climate talks have ended in Brazil with a collective shrug of the shoulders after the Goliaths of the fossil energy industry once again flexed their muscles to show the world who is really in control.</p><p>As our Pacific Island neighbours pleaded for their very survival, more than 1,600 <a href=\"https://www.theguardian.com/environment/2025/nov/14/fossil-fuel-lobbyists-cop30\">industry lobbyists</a> crashed the party, joining forcing with the Saudis and Russians to kibosh the phase-out of fossil fuels.</p> <a href=\"https://www.theguardian.com/australia-news/commentisfree/2025/nov/26/climate-disasters-devastating-planet-collective-action-against-corporations\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 1
-      },
-      {
-        "title": "US, Russia and Saudi Arabia create axis of obstruction as Cop30 sputters out",
-        "url": "https://www.theguardian.com/environment/2025/nov/25/trump-cop30-lacks-us-climate-progress",
-        "date": "2025-11-25",
-        "source": "Environment | The Guardian",
-        "text": "<p>Trump puts US in unflattering company as lack of representative reveals disdain for climate progress</p><p>More than two decades ago, the US railed against the “axis of evil”. Now, after international climate talks spluttered to a meagre conclusion, the US finds itself grouped with unflattering company – an “axis of obstruction” that has stymied progress on the climate crisis.</p><p>Donald Trump’s administration opted to not send anyone to the UN climate summit in Brazil that <a href=\"https://www.theguardian.com/environment/2025/nov/22/small-win-at-cop-on-finance-for-poor-countries-overshadowed-by-failure-on-fossil-fuels\">culminated</a> over the weekend – a first for the US in 30 years of these annual gatherings and another representation of the president’s disdain for the climate crisis, which he has called a “hoax” and a “con job”.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/25/trump-cop30-lacks-us-climate-progress\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 1
-      }
-    ],
-    "source_link": "Environment | The Guardian",
-    "summary": "No summary available for this cluster.",
-    "image_url": null
-  },
-  {
-    "articles": [
-      {
-        "title": "Trump order to keep Michigan power plant open costs taxpayers $113m",
-        "url": "https://www.theguardian.com/us-news/2025/nov/28/trump-michigan-power-plant",
-        "date": "2025-11-28",
-        "source": "Environment | The Guardian",
-        "text": "<p>Critics say JH Campbell coal-fired plant in western Michigan is expensive and emits high levels of toxic pollution</p><p>Trump administration orders to keep an ageing, unneeded Michigan coal-fired power plant online has cost ratepayers from across the US midwest about $113m so far, according to <a href=\"https://d18rn0p25nwr6d.cloudfront.net/CIK-0000811156/2ded8761-a31d-4ff2-8e10-c26bc8a1eaf8.pdf\">estimates</a> from the plant’s operator and regulators.</p><p>Still, the US energy department last week ordered the plant to remain open for another 90 days.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/28/trump-michigan-power-plant\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 2
-      },
-      {
-        "title": "Zombie fires: how Arctic wildfires that come back to life are ravaging forests",
-        "url": "https://www.theguardian.com/environment/2025/nov/24/zombie-fires-arctic-wildfires-reignite-ravaging-forests-aoe",
-        "date": "2025-11-24",
-        "source": "Environment | The Guardian",
-        "text": "<p>Blazes that smoulder in the permafrost, only to reignite, are extending fire season though winter, leaving vegetation struggling to recover</p><p>In May 2023, a lightning strike hit the forest in Donnie Creek, British Columbia, and the trees started to burn. It was early in the year for a wildfire, but a dry autumn and warm spring had turned the forest into a tinderbox, and the flames spread rapidly. By mid-June, the fire had become one of largest in the province’s history, burning through an area of boreal forest nearly twice the size of central London. That year, more of Canada burned than ever before.</p><p>The return of cold and snow at the close of the year typically signal the end of the wildfire season. But this time, the fire did not stop. Instead, it smouldered in the soil underground, insulated from the freezing conditions by the snowpack. The next spring, it reemerged as a “zombie fire” that continued to burn until August 2024. By then, <a href=\"https://www.theguardian.com/world/2023/aug/08/canadian-wildfire-fighters-scramble-amid-nightmare-season\">more than 600,000 hectares (1.5m acres) had been destroyed</a>.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/24/zombie-fires-arctic-wildfires-reignite-ravaging-forests-aoe\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 2
-      }
-    ],
-    "source_link": "Environment | The Guardian",
-    "summary": "Critics say JH Campbell coal-fired plant in western Michigan is expensive and emits high levels of toxic pollution. US energy department last week ordered the plant to remain open for another 90 days. The next spring, it reemerged as a ‘zombie fire’ that continued to burn until August 2024.",
-    "image_url": null
-  },
-  {
-    "articles": [
-      {
-        "title": "Cuddling capybaras and ogling otters: the problem with animal cafes in Asia",
-        "url": "https://www.theguardian.com/environment/2025/nov/27/global-pet-trade-capybaras-bangkok-cafe-animal-cafes-exotic-endangered-species-aoe",
-        "date": "2025-11-27",
-        "source": "Environment | The Guardian",
-        "text": "<p>A boom in places offering petting sessions is linked to a rise in the illegal movement of exotic and endangered species, say experts</p><p>The second floor of an unassuming office building in central Bangkok is a strange place to encounter the world’s largest rodent. Yet here, inside a small enclosure with a shallow pool, three capybaras are at the disposal of dozens of paying customers – all clamouring for a selfie. As people eagerly thrust leafy snacks toward the nonchalant-looking animals, few seem to consider the underlying peculiarity: how, exactly, did this South American rodent end up more than 10,000 miles from home, in a bustling Asian metropolis?</p><p>Capybara cafes have been cropping up across the continent in recent years, driven by the animal’s growing internet fame. The semi-aquatic animals feature in <a href=\"https://www.tiktok.com/tag/capybara?lang=en\">more than 600,000</a> TikTok posts. In Bangkok, cafe customers pay 400 baht (£9.40) for a 30-minute petting session with them, along with a few meerkats and Chinese bamboo rats. Doors are open 12 hours a day, seven days a week.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/27/global-pet-trade-capybaras-bangkok-cafe-animal-cafes-exotic-endangered-species-aoe\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 3
       },
@@ -177,41 +168,68 @@
       }
     ],
     "source_link": "Environment | The Guardian",
-    "summary": "Capybara cafes have been cropping up across the continent in recent years. The semi-aquatic animals feature in more than 600,000 TikTok posts. In Bangkok, customers pay 400 baht (£9.40) for a 30-minute petting session.",
+    "summary": "No summary available for this cluster.",
     "image_url": null
   },
   {
     "articles": [
       {
-        "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
-        "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
-        "date": "2025-11-27",
+        "title": "Australia could miss clean energy target as solar and wind investment slumps, investors warn",
+        "url": "https://www.theguardian.com/environment/2025/dec/01/australia-could-miss-clean-energy-target-as-solar-and-wind-investment-slumps-investors-warn",
+        "date": "2025-12-01",
         "source": "Environment | The Guardian",
-        "text": "<p>Ecologically sound farming and land stewardship can change individual, collective and planetary health</p><p>Within Indigenous communities across North America and beyond, we have long known that food is medicine. This isn’t just theory; it’s fact. We understand that seasonal, regionally specific and culturally relevant foods are vital for nurturing, nourishing and healing both our people and our planet. And it’s high time we all embrace the Native American concept of food as medicine.</p><p>Our ancestral wisdom has ensured our survival for millennia, even in the face of unthinkable circumstances like colonialism, genocide and ongoing oppression. This ever-relevant knowledge will ensure our collective survival amid today’s unthinkable circumstances here in the United States, such as political instability, climate change and rising health issues.</p> <a href=\"https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways\">Continue reading...</a>",
+        "text": "<p>Expert cautions large pipeline of potential projects will not deliver required energy capacity unless companies make final investments</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Renewable energy investors have warned “deep structural issues” are driving a slump in solar and wind investment in Australia, with commitments on large-scale farms at the lowest level in almost a decade.</p><p><a href=\"https://cer.gov.au/document/quarterly-carbon-market-report-september-quarter-2025\">Clean Energy Regulator data</a> shows the government agency expects 2.5GW of industry-scale renewable energy capacity to reach a final investment decision this year, down from 4GW last year. The 12-month average for investment commitments on new developments is at its lowest since early 2017.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/01/australia-could-miss-clean-energy-target-as-solar-and-wind-investment-slumps-investors-warn\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 4
       },
       {
-        "title": "‘Nature feeds us more than it floods us’: Asheville after-school program teaches kids to forage",
-        "url": "https://www.theguardian.com/environment/2025/nov/27/asheville-foraging-schools",
-        "date": "2025-11-27",
+        "title": "Hello, foreign oligarchs and corporations! Please come and sue the UK for billions | George Monbiot",
+        "url": "https://www.theguardian.com/commentisfree/2025/dec/01/uk-sue-foreign-oligarchs-corporations-litigation-offshore-courts",
+        "date": "2025-12-01",
         "source": "Environment | The Guardian",
-        "text": "<p>In the wake of Hurricane Helene, No Taste Like Home aims to rebuild trust between students and the land</p><p>Juniper Stewart just turned 12. She wears a cropped orange sweater and her ginger curls in a bob. She used to like Taylor Swift, but now she’s more into the Cranberries and other indie rock.</p><p>Juniper also knows how to identify a Pilobolus mushroom, which grows on “cow poop”, according to Juniper. She can confidently harvest plantain leaf, a ubiquitous wild plant that’s tasty in salads and sautées, and useful as a poultice on stings and poison ivy. She has paper bags full of sourwood leaves drying at home to make tea, and she’s delighted by the fact that when you touch jewelweed seed pods, they explode.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/27/asheville-foraging-schools\">Continue reading...</a>",
+        "text": "<p>The case of a planned Cumbrian coalmine shows how governments around the world are being threatened by litigation in shadowy offshore courts</p><p>How do you reckon our political system works? Perhaps something like this. We elect MPs. They vote on bills. If a majority is achieved, the bills becomes law. The law is upheld by the courts. End of story. Well, that’s how it used to work. No longer.</p><p>Today, foreign corporations, or the oligarchs who own them, <a href=\"https://globalarbitrationreview.com/article/unjust-undemocratic-and-dysfunctional-un-report-slams-isds\">can sue governments</a> for the laws they pass, at offshore tribunals composed of corporate lawyers. The cases are held in secret. Unlike our courts, these tribunals allow no right of appeal or judicial review. You or I cannot take a case to them, nor can our government, or even businesses based in this country. They are open only to corporations based overseas.</p><p>George Monbiot is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2025/dec/01/uk-sue-foreign-oligarchs-corporations-litigation-offshore-courts\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 4
       },
       {
-        "title": "‘Hunger has left its mark on me’: a Native woman reflects on her rich but food-scarce life",
-        "url": "https://www.theguardian.com/environment/2025/nov/24/hunger-native-woman",
-        "date": "2025-11-24",
+        "title": "Power surge: law changes could soon bring balcony solar to millions across US",
+        "url": "https://www.theguardian.com/us-news/2025/nov/30/balcony-solar-power-states-laws",
+        "date": "2025-11-30",
         "source": "Environment | The Guardian",
-        "text": "<p>Hunger is part of American life. Even as a professional adult, it’s never too far from Dr Angie Morrill’s thoughts</p><p>I asked my older sister why we sang the Patty Cake song so often as children: <em>Patty cake, patty cake, baker’s man. Bake me a cake as fast as you can!</em> She replied simply: “Because we were hungry.”</p><p>Her answer stayed with me, and I thought about some happy memories: mom making Toll House cookies while The Wizard of Oz played on television. Delivering baked goods to elders and friends in our Native urban community at Christmas; we are enrolled citizens in the Klamath Tribes, whose traditional homelands are in southern Oregon and northern California. Sharing food is a cultural value for Native people. Mom taught us to always offer food and drinks to our guests. It’s also important to have enough food to share.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/24/hunger-native-woman\">Continue reading...</a>",
+        "text": "<p>Tweaks to state laws mean many Americans will be able to benefit from small, simple plug-in solar panels</p><p>Acquiring solar panels at home can be an expensive hassle for people in the US. But small, simple, plug-in solar panels for use on balconies are soon to become available for millions of Americans, with advocates hoping the technology will quickly go mainstream.</p><p>Earlier this year, Utah became the first state in the country to pass legislation allowing people to purchase and install small, portable solar panels that plug into a standard wall socket.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/30/balcony-solar-power-states-laws\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 4
+      },
+      {
+        "title": "England’s water industry issued £10.5bn in ‘green bonds’ despite pollution record",
+        "url": "https://www.theguardian.com/business/2025/nov/30/england-water-companies-issued-105bn-in-green-bonds-despite-pollution-record",
+        "date": "2025-11-30",
+        "source": "Environment | The Guardian",
+        "text": "<p>River Action says use of issuance tied to environmental benefits is ‘corporate greenwash on steroids’</p><p>Water companies have issued a fifth of the UK’s “green bonds” since 2017, despite a consistently poor record of sewage pollution during that time, research has shown.</p><p>Privately owned water companies in England have together issued £10.5bn in bonds tied to projects that offer “environmental benefits”, according to analysis of financial market data by Unearthed, which is part of Greenpeace UK.</p> <a href=\"https://www.theguardian.com/business/2025/nov/30/england-water-companies-issued-105bn-in-green-bonds-despite-pollution-record\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 4
+      },
+      {
+        "title": "‘Deeply demoralizing’: how Trump derailed coal country’s clean-energy revival",
+        "url": "https://www.theguardian.com/environment/2025/nov/29/trump-coal-country",
+        "date": "2025-11-29",
+        "source": "Environment | The Guardian",
+        "text": "<p>Biden earmarked billions for former coal communities in Appalachia – and his successor came and took it away</p><p>For a moment, Jacob Hannah saw an unprecedented opportunity to make Appalachia great again.</p><p>In 2022, the Biden administration earmarked billions of dollars to help revitalize and strengthen former coal communities. The objective was to lay down building blocks for the region to transition from extractive industries like coal and timber to a hub for solar and other advanced energy technologies, with a view to long-term economic, climate and social resilience.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/29/trump-coal-country\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 4
+      },
+      {
+        "title": "Trump order to keep Michigan power plant open costs taxpayers $113m",
+        "url": "https://www.theguardian.com/us-news/2025/nov/28/trump-michigan-power-plant",
+        "date": "2025-11-28",
+        "source": "Environment | The Guardian",
+        "text": "<p>Critics say JH Campbell coal-fired plant in western Michigan is expensive and emits high levels of toxic pollution</p><p>Trump administration orders to keep an ageing, unneeded Michigan coal-fired power plant online has cost ratepayers from across the US midwest about $113m so far, according to <a href=\"https://d18rn0p25nwr6d.cloudfront.net/CIK-0000811156/2ded8761-a31d-4ff2-8e10-c26bc8a1eaf8.pdf\">estimates</a> from the plant’s operator and regulators.</p><p>Still, the US energy department last week ordered the plant to remain open for another 90 days.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/28/trump-michigan-power-plant\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 4
       }
     ],
     "source_link": "Environment | The Guardian",
-    "summary": "No Taste Like Home aims to rebuild trust between students and the land. Indigenous communities across North America and beyond have long known that food is medicine. It's high time we all embrace the Native American concept of food as medicine.",
+    "summary": "Renewable energy investors have warned ‘deep structural issues’ are driving a slump in solar and wind investment in Australia. Government agency expects 2.5GW of industry-scale renewable energy capacity to reach a final investment decision this year, down from 4GW last year.",
     "image_url": null
   }
 ]
