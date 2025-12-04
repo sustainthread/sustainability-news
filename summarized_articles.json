@@ -2,79 +2,106 @@
   {
     "articles": [
       {
+        "title": "High levels of ‘forever chemical’ found in cereal products across Europe – study",
+        "url": "https://www.theguardian.com/environment/2025/dec/04/high-levels-of-forever-chemical-found-in-cereal-products-across-europe-study",
+        "date": "2025-12-04",
+        "source": "Environment | The Guardian",
+        "text": "<p>Pesticide Action Network Europe study finds average concentrations 100 times higher than in tap water</p><p>High levels of a toxic “forever chemical” have been found in cereal products across Europe because of its presence in pesticides.</p><p>The most contaminated food is breakfast cereal, according to a study by Pesticide Action Network Europe (PAN), with average concentrations 100 times higher than in tap water.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/04/high-levels-of-forever-chemical-found-in-cereal-products-across-europe-study\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 0
+      },
+      {
+        "title": "More than 520 chemicals found in English soil, including long-banned medical substances",
+        "url": "https://www.theguardian.com/environment/2025/dec/03/chemicals-found-english-soil-toxins-medical-substances-farming",
+        "date": "2025-12-03",
+        "source": "Environment | The Guardian",
+        "text": "<p>Fertilising arable land with human waste leaves array of toxins that could re-enter food chain, study finds</p><p>More than 520 chemicals have been found in English soils, including pharmaceutical products and toxins that were banned decades ago, because of the practice of spreading human waste to fertilise arable land.</p><p>Research by scientists at the University of Leeds, <a href=\"https://www.sciencedirect.com/science/article/pii/S0304389425033539\">published as a preprint in the Journal of Hazardous Materials</a>, found a worrying array of chemicals in English soils. Close to half (46.4%) of the pharmaceutical substances detected had not been reported in previous global monitoring campaigns.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/03/chemicals-found-english-soil-toxins-medical-substances-farming\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 0
+      },
+      {
+        "title": "Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’",
+        "url": "https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
+        "date": "2025-12-02",
+        "source": "Environment | The Guardian",
+        "text": "<p>Polluting facilities in Monterrey, which has close ties to the US, are pumping toxic heavy metals into the city’s air and threatening residents’ health</p><ul><li><p><a href=\"http://quintoelab.org/project/identifican-industrias-emisiones-contaminantes-monterrey\"><em>Leer en español </em></a><em>en Quinto Elemento Lab</em></p></li></ul><p>An industrial boom in a US manufacturing hub in Mexico is contributing to a massive air pollution crisis that is threatening residents’ health, according to new research by the Guardian and Quinto Elemento Lab.</p><p>The polluting facilities in Monterrey include factories that are operated by companies from around the world – including the US, Europe, Asia and Mexico – but export largely to the US.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 0
+      }
+    ],
+    "source_link": "Environment | The Guardian",
+    "summary": "Pesticide Action Network Europe study finds average concentrations 100 times higher than in tap water. Research by scientists at the University of Leeds found a worrying array of chemicals in English soils. Close to half of the pharmaceutical substances detected had not been reported in previous global monitoring campaigns.",
+    "image_url": null
+  },
+  {
+    "articles": [
+      {
+        "title": "How an invasion of purple flowers made Iceland an Instagram paradise – and caused a biodiversity crisis",
+        "url": "https://www.theguardian.com/environment/2025/dec/04/invasive-species-flowers-iceland-nootka-lupins-lupines-aoe",
+        "date": "2025-12-04",
+        "source": "Environment | The Guardian",
+        "text": "<p>Nootka lupins, introduced in the 1940s to repair damaged soil, are rampaging across the island, threatening its native species</p><p>It was only when huge areas of Iceland started turning purple that authorities realised they had made a mistake. By then, it was too late. The Nootka lupin, native to Alaska, had coated the sides of fjords, sent tendrils across mountain tops and covered lava fields, grasslands and protected areas.</p><p>Since it arrived in the 1940s, it has become an accidental national symbol. Hordes of tourists and local people pose for photos in the ever-expanding fields in June and July, entranced by the delicate cones of flowers that cover the north Atlantic island.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/04/invasive-species-flowers-iceland-nootka-lupins-lupines-aoe\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 1
+      },
+      {
         "title": "‘They’re a lot like us’: saving the tiny punk monkeys facing extinction",
         "url": "https://www.theguardian.com/environment/2025/dec/02/monkeys-northern-colombia-habitat-cotton-top-tamarins-aoe",
         "date": "2025-12-02",
         "source": "Environment | The Guardian",
         "text": "<p>In the tropical dry forests of northern Colombia, a small team is gradually restoring the degraded habitat of the rare cotton-top tamarin</p><p></p><p>Luis Enrique Centena spent decades silencing the forest. Now, he listens. Making a whistle, the former logger points up to a flash of white and reddish fur in the canopy. Inquisitive eyes peer back – a cotton-top tamarin, one of the world’s rarest primates.</p><p>“I used to cut trees and never took the <em>titís</em> into account,” says Centena, calling the cotton-tops by their local name. “I ignored them. I didn’t know that they were in danger of extinction, I only knew I had to feed my family. But now we have become friends.”</p> <a href=\"https://www.theguardian.com/environment/2025/dec/02/monkeys-northern-colombia-habitat-cotton-top-tamarins-aoe\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 0
+        "cluster_id": 1
       },
       {
         "title": "Life Invisible: the fight against superbugs starts in the driest place on Earth",
         "url": "https://www.theguardian.com/society/video/2025/dec/02/life-invisible-the-fight-against-superbugs-starts-in-the-driest-place-on-earth",
         "date": "2025-12-02",
         "source": "Environment | The Guardian",
-        "text": "<p>Cristina Dorador is on an urgent mission in the world’s highest desert, the Atacama in Chile. As the rise of drug-resistant superbugs kills millions per year, Cristina has made it her mission to uncover new, life-saving antibiotics in the stunning salt flats she has studied since she was 14. Against the magnificent backdrop of endless plains, microscopic discoveries lead her team of scientists to question how critically lithium mining is damaging the delicate ecosystem and impacting Indigenous communities</p><p></p><p></p> <a href=\"https://www.theguardian.com/society/video/2025/dec/02/life-invisible-the-fight-against-superbugs-starts-in-the-driest-place-on-earth\">Continue reading...</a>",
+        "text": "<p>Cristina Dorador is on an urgent mission in the world’s driest desert, the Atacama in Chile. As the rise of drug-resistant superbugs kills millions per year, Cristina has made it her mission to uncover new, life-saving antibiotics in the stunning salt flats she has studied since she was 14. Against the magnificent backdrop of endless plains, microscopic discoveries lead her team of scientists to question how critically lithium mining is damaging the delicate ecosystem and impacting Indigenous communities</p><p></p><p></p> <a href=\"https://www.theguardian.com/society/video/2025/dec/02/life-invisible-the-fight-against-superbugs-starts-in-the-driest-place-on-earth\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 0
+        "cluster_id": 1
       },
       {
-        "title": "Cuddling capybaras and ogling otters: the problem with animal cafes in Asia",
-        "url": "https://www.theguardian.com/environment/2025/nov/27/global-pet-trade-capybaras-bangkok-cafe-animal-cafes-exotic-endangered-species-aoe",
+        "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
+        "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
         "date": "2025-11-27",
         "source": "Environment | The Guardian",
-        "text": "<p>A boom in places offering petting sessions is linked to a rise in the illegal movement of exotic and endangered species, say experts</p><p>The second floor of an unassuming office building in central Bangkok is a strange place to encounter the world’s largest rodent. Yet here, inside a small enclosure with a shallow pool, three capybaras are at the disposal of dozens of paying customers – all clamouring for a selfie. As people eagerly thrust leafy snacks toward the nonchalant-looking animals, few seem to consider the underlying peculiarity: how, exactly, did this South American rodent end up more than 10,000 miles from home, in a bustling Asian metropolis?</p><p>Capybara cafes have been cropping up across the continent in recent years, driven by the animal’s growing internet fame. The semi-aquatic animals feature in <a href=\"https://www.tiktok.com/tag/capybara?lang=en\">more than 600,000</a> TikTok posts. In Bangkok, cafe customers pay 400 baht (£9.40) for a 30-minute petting session with them, along with a few meerkats and Chinese bamboo rats. Doors are open 12 hours a day, seven days a week.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/27/global-pet-trade-capybaras-bangkok-cafe-animal-cafes-exotic-endangered-species-aoe\">Continue reading...</a>",
+        "text": "<p>Ecologically sound farming and land stewardship can change individual, collective and planetary health</p><p>Within Indigenous communities across North America and beyond, we have long known that food is medicine. This isn’t just theory; it’s fact. We understand that seasonal, regionally specific and culturally relevant foods are vital for nurturing, nourishing and healing both our people and our planet. And it’s high time we all embrace the Native American concept of food as medicine.</p><p>Our ancestral wisdom has ensured our survival for millennia, even in the face of unthinkable circumstances like colonialism, genocide and ongoing oppression. This ever-relevant knowledge will ensure our collective survival amid today’s unthinkable circumstances here in the United States, such as political instability, climate change and rising health issues.</p> <a href=\"https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 0
+        "cluster_id": 1
       },
       {
-        "title": "Week in wildlife: seal pups, albino turtles and a sleeping tiger",
-        "url": "https://www.theguardian.com/environment/gallery/2025/nov/27/week-in-wildlife-seal-pups-albino-turtles-and-a-sleeping-tiger",
+        "title": "‘Nature feeds us more than it floods us’: Asheville after-school program teaches kids to forage",
+        "url": "https://www.theguardian.com/environment/2025/nov/27/asheville-foraging-schools",
         "date": "2025-11-27",
         "source": "Environment | The Guardian",
-        "text": "<p>This week’s best wildlife photographs from around the world</p> <a href=\"https://www.theguardian.com/environment/gallery/2025/nov/27/week-in-wildlife-seal-pups-albino-turtles-and-a-sleeping-tiger\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 0
-      }
-    ],
-    "source_link": "Environment | The Guardian",
-    "summary": "Cristina Dorador is on an urgent mission in the world’s highest desert, the Atacama in Chile. As the rise of drug-resistant superbugs kills millions per year, Cristina has made it her mission to uncover new, life-saving antibiotics in the stunning salt flats.",
-    "image_url": null
-  },
-  {
-    "articles": [
-      {
-        "title": "Nike, Superdry and Lacoste ads banned in UK over ‘misleading’ green claims",
-        "url": "https://www.theguardian.com/media/2025/dec/03/nike-superdry-and-lacoste-ads-banned-in-uk-over-misleading-green-claims",
-        "date": "2025-12-03",
-        "source": "Environment | The Guardian",
-        "text": "<p>Advertising watchdog says all three firms misled shoppers by using term ‘sustainable’ in paid-for Google adverts</p><p>Ads for Nike, Superdry and Lacoste have been banned in the UK for misleading consumers about the environmental sustainability credentials of their products.</p><p>The Advertising Standards Authority (ASA) said paid-for Google ads run by all three retailers used terms such as “sustainable”, “sustainable materials” or “sustainable style” without providing evidence proving the green claims.</p> <a href=\"https://www.theguardian.com/media/2025/dec/03/nike-superdry-and-lacoste-ads-banned-in-uk-over-misleading-green-claims\">Continue reading...</a>",
+        "text": "<p>In the wake of Hurricane Helene, No Taste Like Home aims to rebuild trust between students and the land</p><p>Juniper Stewart just turned 12. She wears a cropped orange sweater and her ginger curls in a bob. She used to like Taylor Swift, but now she’s more into the Cranberries and other indie rock.</p><p>Juniper also knows how to identify a Pilobolus mushroom, which grows on “cow poop”, according to Juniper. She can confidently harvest plantain leaf, a ubiquitous wild plant that’s tasty in salads and sautées, and useful as a poultice on stings and poison ivy. She has paper bags full of sourwood leaves drying at home to make tea, and she’s delighted by the fact that when you touch jewelweed seed pods, they explode.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/27/asheville-foraging-schools\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 1
       }
     ],
     "source_link": "Environment | The Guardian",
-    "summary": "Ads for Nike, Superdry and Lacoste have been banned in the UK for misleading consumers about the environmental sustainability credentials of their products. The Advertising Standards Authority said paid-for Google ads run by all three retailers used terms such as “sustainable” and ‘sustainable materials’ without providing evidence.",
+    "summary": "Nootka lupins, introduced in the 1940s to repair damaged soil, are rampaging across the island. They are threatening its native species. In the tropical dry forests of northern Colombia, a small team is restoring the degraded habitat of the rare cotton-top tamarin.",
     "image_url": null
   },
   {
     "articles": [
       {
-        "title": "Tesla privately warned UK that weakening EV rules would hit sales",
-        "url": "https://www.theguardian.com/technology/2025/dec/03/tesla-uk-ev-rules-sales-elon-musk-electric-car",
+        "title": "Trump says he will repeal Biden-era fuel efficiency standards for cars and trucks",
+        "url": "https://www.theguardian.com/us-news/2025/dec/03/trump-fuel-efficiency-rules",
         "date": "2025-12-03",
         "source": "Environment | The Guardian",
-        "text": "<p>Elon Musk-owned electric carmaker also called for support for the secondhand market, documents reveal</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/dec/02/ai-valuations-risk-financial-stability-bank-of-england-stock-markets-house-prices-business-live-news-updates\">Business live – latest updates</a></p></li></ul><p>Tesla privately warned the UK government that weakening electric vehicle rules would hit battery car sales and risk the country missing its carbon dioxide targets, according to newly revealed documents.</p><p>The US electric carmaker, run by Elon Musk, also called for “support for the used-car market”, according to submissions to a government consultation earlier this year obtained by the <a href=\"https://www.fastcharge.email/\">Fast Charge,</a> a newsletter covering electric cars.</p> <a href=\"https://www.theguardian.com/technology/2025/dec/03/tesla-uk-ev-rules-sales-elon-musk-electric-car\">Continue reading...</a>",
+        "text": "<p>Move marks president’s latest effort to dismantle pollution regulations and support for cleaner-running vehicles</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> announced on Wednesday that he is repealing the Biden-era federal fuel economy standards, significantly weakening fuel efficiency requirements for tens of millions of new gasoline-powered cars and light trucks.</p><p>It marks the US president’s latest effort to dismantle pollution regulations and federal support for cleaner-running vehicles and renewable energy. Burning gasoline is a significant contributor to global heating and transportation is the largest source of greenhouse gas emissions in the United States.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/03/trump-fuel-efficiency-rules\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 2
       },
       {
-        "title": "Zillow deletes climate risk data from listings after complaints it harms sales",
-        "url": "https://www.theguardian.com/environment/2025/dec/01/zillow-removes-climate-risk-data-home-listings",
-        "date": "2025-12-01",
+        "title": "The environmental costs of corn: should the US change how it grows its dominant crop?",
+        "url": "https://www.theguardian.com/environment/2025/dec/03/environment-corn-farming-trump-administration",
+        "date": "2025-12-03",
         "source": "Environment | The Guardian",
-        "text": "<p>Site removes feature after real estate agents and some homeowners say scores appear arbitrary and hurt sales</p><p>Zillow, the US’s largest real estate listing site, has removed a feature that allowed people to view a property’s exposure to the climate crisis, following complaints from the industry and some homeowners that it was hurting sales.</p><p>In September last year, the online real estate marketplace <a href=\"https://investors.zillowgroup.com/investors/news-and-events/news/news-details/2024/Zillow-introduces-First-Streets-comprehensive-climate-risk-data-on-for-sale-listings-across-the-US/default.aspx\">introduced a tool</a> showing the individual risk of wildfire, flood, extreme heat, wind and poor air quality for 1m properties it lists, explaining that “climate risks are now a critical factor in home-buying decisions” for many Americans.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/01/zillow-removes-climate-risk-data-home-listings\">Continue reading...</a>",
+        "text": "<p>Amid concerns over greenhouse gas emissions, the Trump administration has abolished climate-friendly farming incentives</p><p><em>This article was produced in partnership </em><em>with <a href=\"https://floodlightnews.org/\">Floodlight</a></em></p><p>For decades, corn has reigned over American agriculture. It sprawls across 90m acres – about the size of Montana – and goes into everything from livestock feed and processed foods to the ethanol blended into most of the nation’s gasoline.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/03/environment-corn-farming-trump-administration\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 2
       },
@@ -86,6 +113,22 @@
         "text": "<p>Trump promised to cut consumers’ energy costs within his first year in office but gas price is up 4% on average</p><p>Americans using gas stoves to cook during the holidays, or any other meal in the near future, are set for persistently higher bills, with the price of gas expected to keep rising into next year.</p><p>US households will pay 4% more for gas power this year, on average, compared with 2024, with the industrial and power plant sectors experiencing a much higher price rise, a recent analysis from the US Energy Information Administration (EIA) has <a href=\"https://www.eia.gov/todayinenergy/detail.php?id=66624\">found</a>.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/01/gas-energy-prices\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 2
+      }
+    ],
+    "source_link": "Environment | The Guardian",
+    "summary": "Move marks president’s latest effort to dismantle pollution regulations and support for cleaner-running vehicles. Burning gasoline is a significant contributor to global heating and transportation is the largest source of greenhouse gas emissions in the United States.",
+    "image_url": null
+  },
+  {
+    "articles": [
+      {
+        "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
+        "url": "https://news.un.org/feed/view/en/story/2025/12/1166482",
+        "date": "2025-12-02",
+        "source": "UN News - Global perspective Human stories",
+        "text": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
+        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-08-2021_WMO_extreme-weather.jpg/image560x340cropped.jpg",
+        "cluster_id": 3
       },
       {
         "title": "Hello, foreign oligarchs and corporations! Please come and sue the UK for billions | George Monbiot",
@@ -94,75 +137,7 @@
         "source": "Environment | The Guardian",
         "text": "<p>The case of a planned Cumbrian coalmine shows how governments around the world are being threatened by litigation in shadowy offshore courts</p><p>How do you reckon our political system works? Perhaps something like this. We elect MPs. They vote on bills. If a majority is achieved, the bills becomes law. The law is upheld by the courts. End of story. Well, that’s how it used to work. No longer.</p><p>Today, foreign corporations, or the oligarchs who own them, <a href=\"https://globalarbitrationreview.com/article/unjust-undemocratic-and-dysfunctional-un-report-slams-isds\">can sue governments</a> for the laws they pass, at offshore tribunals composed of corporate lawyers. The cases are held in secret. Unlike our courts, these tribunals allow no right of appeal or judicial review. You or I cannot take a case to them, nor can our government, or even businesses based in this country. They are open only to corporations based overseas.</p><p>George Monbiot is a Guardian columnist</p> <a href=\"https://www.theguardian.com/commentisfree/2025/dec/01/uk-sue-foreign-oligarchs-corporations-litigation-offshore-courts\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 2
-      }
-    ],
-    "source_link": "Environment | The Guardian",
-    "summary": "Elon Musk-owned electric carmaker also called for support for the secondhand market, documents reveal. Zillow, the US’s largest real estate listing site, has removed a feature that allowed people to view a property's exposure to the climate crisis.",
-    "image_url": null
-  },
-  {
-    "articles": [
-      {
-        "title": "Power surge: law changes could soon bring balcony solar to millions across US",
-        "url": "https://www.theguardian.com/us-news/2025/nov/30/balcony-solar-power-states-laws",
-        "date": "2025-11-30",
-        "source": "Environment | The Guardian",
-        "text": "<p>Tweaks to state laws mean many Americans will be able to benefit from small, simple plug-in solar panels</p><p>Acquiring solar panels at home can be an expensive hassle for people in the US. But small, simple, plug-in solar panels for use on balconies are soon to become available for millions of Americans, with advocates hoping the technology will quickly go mainstream.</p><p>Earlier this year, Utah became the first state in the country to pass legislation allowing people to purchase and install small, portable solar panels that plug into a standard wall socket.</p> <a href=\"https://www.theguardian.com/us-news/2025/nov/30/balcony-solar-power-states-laws\">Continue reading...</a>",
-        "image_url": null,
         "cluster_id": 3
-      },
-      {
-        "title": "‘Deeply demoralizing’: how Trump derailed coal country’s clean-energy revival",
-        "url": "https://www.theguardian.com/environment/2025/nov/29/trump-coal-country",
-        "date": "2025-11-29",
-        "source": "Environment | The Guardian",
-        "text": "<p>Biden earmarked billions for former coal communities in Appalachia – and his successor came and took it away</p><p>For a moment, Jacob Hannah saw an unprecedented opportunity to make Appalachia great again.</p><p>In 2022, the Biden administration earmarked billions of dollars to help revitalize and strengthen former coal communities. The objective was to lay down building blocks for the region to transition from extractive industries like coal and timber to a hub for solar and other advanced energy technologies, with a view to long-term economic, climate and social resilience.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/29/trump-coal-country\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 3
-      }
-    ],
-    "source_link": "Environment | The Guardian",
-    "summary": "Tweaks to state laws mean many Americans will be able to benefit from small, simple plug-in solar panels. Utah became the first state in the country to pass legislation allowing people to purchase and install small, portable solar panels that plug into a standard wall socket.",
-    "image_url": null
-  },
-  {
-    "articles": [
-      {
-        "title": "Reuse and return schemes could help eliminate plastic pollution in 15 years, says report",
-        "url": "https://www.theguardian.com/environment/2025/dec/03/reuse-and-return-schemes-could-help-eliminate-plastic-waste-in-15-years-report",
-        "date": "2025-12-03",
-        "source": "Environment | The Guardian",
-        "text": "<p>Pew Charitable Trusts finds plastic pollution will more than double globally by 2040 unless action taken<br /> </p><p>The 66m tonnes of pollution from plastic packaging that enters the global environment each year could be almost eliminated by 2040 primarily by reuse and return schemes, significant new research reveals.</p><p>In the most wide-ranging analysis of the global plastic system, the Pew Charitable Trusts, in collaboration with academics including at Imperial College London and the University of Oxford, said plastic, a material once called revolutionary and modern, was now putting public health, world economies and the future of the planet at risk.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/03/reuse-and-return-schemes-could-help-eliminate-plastic-waste-in-15-years-report\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 4
-      },
-      {
-        "title": "Asia: Lives upended by cyclones, ‘extreme’ rainfall on the rise, warn UN agencies",
-        "url": "https://news.un.org/feed/view/en/story/2025/12/1166482",
-        "date": "2025-12-02",
-        "source": "UN News - Global perspective Human stories",
-        "text": "Across southeast Asia, record-breaking rains and flooding caused by back-to-back tropical storms have claimed hundreds of lives and brought devastation and displacement upon entire communities, UN agencies said on Tuesday.&nbsp;",
-        "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-08-2021_WMO_extreme-weather.jpg/image560x340cropped.jpg",
-        "cluster_id": 4
-      },
-      {
-        "title": "Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘breathing poison’",
-        "url": "https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution",
-        "date": "2025-12-02",
-        "source": "Environment | The Guardian",
-        "text": "<p>Polluting facilities in Monterrey, which has close ties to the US, are pumping toxic heavy metals into the city’s air and threatening residents’ health</p><ul><li><p><a href=\"http://quintoelab.org/project/identifican-industrias-emisiones-contaminantes-monterrey\"><em>Leer en español </em></a><em>en Quinto Elemento Lab</em></p></li></ul><p>An industrial boom in a US manufacturing hub in Mexico is contributing to a massive air pollution crisis that is threatening residents’ health, according to new research by the Guardian and Quinto Elemento Lab.</p><p>The polluting facilities in Monterrey include factories that are operated by companies from around the world – including the US, Europe, Asia and Mexico – but export largely to the US.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/02/monterrey-mexico-air-quality-industrial-pollution\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 4
-      },
-      {
-        "title": "EPA urged to ban spraying of antibiotics on US food crops amid resistance fears",
-        "url": "https://www.theguardian.com/environment/2025/nov/30/antibiotics-spraying-farms-epa-bacteria-resistance",
-        "date": "2025-11-30",
-        "source": "Environment | The Guardian",
-        "text": "<p>Use of 8m pounds of antibiotics and antifungals a year leads to superbugs and damages human health, lawsuit claims</p><p>A new <a href=\"https://u7061146.ct.sendgrid.net/ls/click?upn=u001.gqh-2BaxUzlo7XKIuSly0rCydHCbG70wcdabaaM9rXedBbrZpL-2FnBXALfDOpP7JC4f1LkbNy1p9YKptHHWo-2BvO1HRmRC1O5toLwLFRGuEKe7RY4-2F474M9SAhJiwRVQHGjul7cH2RmA9niCcTjB-2BJQw2ZPHcJ0j5rPMJxPL2VZldyVUClWzo4Nt4EEfwyRKrQtTz1ea_lHfhL5FQIIAolkXgQycRaoZ8r0GqXkvzkUp2VESycz2E-2FSraiWN1-2Fbv0toQeDaafb60CnNqGJQcGSdpYYnsxCysGEIx9GIyHPclTwjeTLFvO3gc-2FhOWWdG2AdnfZbQBk4m8q5arP4Z8z9AN3JN2ffIDOJXqf1hslLmPZZoRIXWwCFPsF3f-2BUFqBRSaNgQmFpzVJ79s8SjAtAylak25kxg8Sj79bQ9OfosWiWCJXnGgjhv4ecxb9q41AeVNib5yupd-2B1ntcpoyyKpJ2Ke9MRoibQAGoz1kIBR-2F9DGMTTIJKeoIQiUJ769fuUOAulQY-2FSlV7ogo5dmlYCoCLZxvaBijnATxmfrSrTFaBtOv-2Bh5eSU-3D\">legal petition</a> filed by a dozen public health and farm worker groups demands the Environmental Protection Agency (EPA) stop allowing farms to spray antibiotics on food crops in the US because they are probably causing superbugs to flourish and sickening farm workers.</p><p>The agricultural industry sprays about 8m pounds of antibiotic and antifungal pesticides on US food crops annually, many of which are banned in other countries.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/30/antibiotics-spraying-farms-epa-bacteria-resistance\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 4
       },
       {
         "title": "‘We need to speak collectively’: can parliament solve the problem of ‘deprivation bingo’ in the UK’s seaside towns?",
@@ -171,7 +146,7 @@
         "source": "Environment | The Guardian",
         "text": "<p>Labour knows it needs to win over the ‘sea wall’ cohort of coastal voters in the next election. But as anger over inequality grows, time is running out</p><p>It is a lovely sunny autumn day in Ramsgate on Britain’s Kent coast, and quintessential seaside chippy Peter’s Fish Factory is doing a roaring lunchtime trade. Across the road, at the entrance to the town’s pier, local MP and chair of the newly reformed coastal parliamentary Labour party (PLP), Polly Billington, is having her photo taken.</p><p>In between shots she shows us <a href=\"https://theisleofthanetnews.com/2025/09/18/ramsgate-royal-harbour-display-celebrating-world-war-twos-operation-dynamo-and-the-little-ships/\">the community art project</a> that adorns the fence along the entrance to the pier. It is made up of pictures, drawn primarily by local children and young people, of <a href=\"https://www.classicboat.co.uk/news/dunkirk-85th-anniversary-little-ships-fleet-cross-the-channel/\">the 65 little ships that set sail earlier this year</a> from Ramsgate to commemorate the 85th anniversary of the Dunkirk evacuation.</p> <a href=\"https://www.theguardian.com/environment/2025/nov/30/we-need-to-speak-collectively-can-parliament-solve-the-problem-of-deprivation-bingo-in-the-uks-seaside-towns\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 4
+        "cluster_id": 3
       },
       {
         "title": "Australia finally acknowledges environment underpins all else. That’s no small thing | Ken Henry",
@@ -180,38 +155,45 @@
         "source": "Environment | The Guardian",
         "text": "<p>In what are dangerous times for democracies around the world, parliament’s overhaul of nature laws in the EPBC Act shows ambitious reform remains possible</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The passage of long overdue reforms to the Environmental Protection and Biodiversity Conservation (EPBC) Act demonstrates powerfully that democratic governance is alive and well in Australia.</p><p>The Australian parliament has done its job and passed 21st-century reforms that support a modern economy, enable the creation of new and sustainable jobs while promising not to destroy, but in fact improve, the health of the natural world. <br /></p> <a href=\"https://www.theguardian.com/commentisfree/2025/nov/28/nature-protection-laws-australia-acknowledges-environment-underpins-all\">Continue reading...</a>",
         "image_url": null,
-        "cluster_id": 4
-      },
+        "cluster_id": 3
+      }
+    ],
+    "source_link": "UN News - Global perspective Human stories",
+    "summary": "The case of a planned Cumbrian coalmine shows how governments around the world are being threatened by litigation in shadowy offshore courts. Unlike our courts, these tribunals allow no right of appeal or judicial review. You or I cannot take a case to them, nor can our government, or even businesses based in this country. They are open only to corporations based overseas.",
+    "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-08-2021_WMO_extreme-weather.jpg/image560x340cropped.jpg"
+  },
+  {
+    "articles": [
       {
-        "title": "Labor’s nature law overhaul contains wins – but we should watch for gremlins in the details | Adam Morton",
-        "url": "https://www.theguardian.com/australia-news/commentisfree/2025/nov/27/labor-nature-law-overhaul-epbc-act-changes-details",
-        "date": "2025-11-27",
+        "title": "New England warming faster than most places on Earth, study finds",
+        "url": "https://www.theguardian.com/us-news/2025/dec/03/new-england-warming",
+        "date": "2025-12-04",
         "source": "Environment | The Guardian",
-        "text": "<p>The Environment Protection and Biodiversity Conservation Act changes are an improvement, but the rush to pass them was purely political</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here</a></p></li></ul><p>We should start at the beginning in assessing the <a href=\"https://www.theguardian.com/australia-news/2025/nov/27/labor-strikes-deal-with-greens-to-pass-long-awaited-overhaul-of-nature-protection-laws\">Labor-Greens deal to revamp Australia’s national environment law</a>. And the beginning is that, ideally, you would not start from here.</p><p>Despite its name, the 1999 Environment Protection and Biodiversity Conservation (EPBC) Act was designed under John Howard to allow developments to go ahead, usually with conditions attached that may limit the damage to nature.</p> <a href=\"https://www.theguardian.com/australia-news/commentisfree/2025/nov/27/labor-nature-law-overhaul-epbc-act-changes-details\">Continue reading...</a>",
+        "text": "<p>Pace of area’s temperature rise, outpaced in US only by Alaskan Arctic,  apparently increased in past five years</p><p>The US region called New England is widely known for its colonial history, maple syrup and frigid, snow-bound winters. Many of these norms are in the process of being upended, however, by a rapidly altering climate, with new research finding the area is heating up faster than almost anywhere else on Earth.</p><p>The breakneck speed of New England’s transformation makes it the fastest-heating area of the US, bar the Alaskan <a href=\"https://www.theguardian.com/environment/2022/jun/15/new-data-reveals-extraordinary-global-heating-in-the-arctic\">Arctic</a>, and the pace of its temperature rise has apparently increased in the past five years, according to the study.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/03/new-england-warming\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 4
       },
       {
-        "title": "The rewriting of Australia’s nature laws comes as a relief, yet I can’t help feel a sense of foreboding | Georgina Woods",
-        "url": "https://www.theguardian.com/commentisfree/2025/nov/27/australia-nature-laws-environment-relief-yet-foreboding",
-        "date": "2025-11-27",
+        "title": "UK farmers lose £800m after heat and drought cause one of worst harvests on record",
+        "url": "https://www.theguardian.com/environment/2025/dec/04/record-heat-drought-2025-cost-uk-arable-farmers-estimated-800m-climate-crisis-grain-harvest",
+        "date": "2025-12-04",
         "source": "Environment | The Guardian",
-        "text": "<p>The minister says quick approvals can happen while protecting the environment, but my experience tells me that haste brings unintended consequences</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>I got a text from a biodiversity advocate around midday on Thursday asking me: are you glad, or sad?</p><p>I wasn’t sure how to reply.</p> <a href=\"https://www.theguardian.com/commentisfree/2025/nov/27/australia-nature-laws-environment-relief-yet-foreboding\">Continue reading...</a>",
+        "text": "<p>Many now concerned about ability to make living in fast-changing climate after one of worst grain harvests recorded</p><p>Record heat and drought cost Britain’s arable farmers more than £800m in lost production in 2025 in one of the worst harvests recorded, analysis has estimated.</p><p>Three of the five worst harvests on record have now occurred since 2020, leaving some farmers asking whether the growing impacts of the climate crisis are making it too financially risky to sow their crops. Farmers are already facing heavy financial pressure as the costs of fertilisers and other inputs have risen faster than prices.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/04/record-heat-drought-2025-cost-uk-arable-farmers-estimated-800m-climate-crisis-grain-harvest\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 4
       },
       {
-        "title": "The bird people of Lake Manchar: surviving in a vanishing oasis",
-        "url": "https://www.theguardian.com/environment/2025/nov/26/bird-people-lake-manchar-mohana-pakistan-surviving-aoe-aoe",
-        "date": "2025-11-26",
+        "title": "Zillow deletes climate risk data from listings after complaints it harms sales",
+        "url": "https://www.theguardian.com/environment/2025/dec/01/zillow-removes-climate-risk-data-home-listings",
+        "date": "2025-12-01",
         "source": "Environment | The Guardian",
-        "text": "<p>The Mohana of Pakistan’s Sindh province once thrived on the lake but pollution and drought have caused the fragile ecosystem to collapse, along with their way of life</p><p>At the mouth of Lake Manchar, gentle lapping disturbs the silence. A small boat cuts through the water, propelled by a bamboo pole scraping the muddy bottom of the canal.</p><p>Bashir Ahmed manoeuvres his frail craft with agility. His slender boat is more than just a means of transport. It is the legacy of a people who live to the rhythm of water: the Mohana. They have lived for generations on the waters of Lake Manchar in Sindh province, a vast freshwater mirror covering nearly 250 sq km. The lake, once the largest in Pakistan, was long an oasis of life. Now, it is dying.</p><p>Bashir Ahmed in his boat on the lake, next to simple huts built on top of the right bank outfall drain</p> <a href=\"https://www.theguardian.com/environment/2025/nov/26/bird-people-lake-manchar-mohana-pakistan-surviving-aoe-aoe\">Continue reading...</a>",
+        "text": "<p>Site removes feature after real estate agents and some homeowners say scores appear arbitrary and hurt sales</p><p>Zillow, the US’s largest real estate listing site, has removed a feature that allowed people to view a property’s exposure to the climate crisis, following complaints from the industry and some homeowners that it was hurting sales.</p><p>In September last year, the online real estate marketplace <a href=\"https://investors.zillowgroup.com/investors/news-and-events/news/news-details/2024/Zillow-introduces-First-Streets-comprehensive-climate-risk-data-on-for-sale-listings-across-the-US/default.aspx\">introduced a tool</a> showing the individual risk of wildfire, flood, extreme heat, wind and poor air quality for 1m properties it lists, explaining that “climate risks are now a critical factor in home-buying decisions” for many Americans.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/01/zillow-removes-climate-risk-data-home-listings\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 4
       }
     ],
     "source_link": "Environment | The Guardian",
-    "summary": "Pew Charitable Trusts finds plastic pollution will more than double globally by 2040 unless action taken. 66m tonnes of pollution from plastic packaging that enters the global environment each year could be almost eliminated by reuse and return schemes.",
+    "summary": "Pace of area’s temperature rise, outpaced in US only by Alaskan Arctic, apparently increased in past five years.",
     "image_url": null
   }
 ]
