@@ -1,5 +1,14 @@
 [
   {
+    "title": "A sustainable future requires new thinking: UN environment report",
+    "url": "https://news.un.org/feed/view/en/story/2025/12/1166553",
+    "date": "2025-12-09",
+    "source": "UN News - Global perspective Human stories",
+    "text": "Adopting a fresh approach to protecting planetary health would deliver stronger economies, fewer deaths and less poverty, the UN Environment Programme (UNEP) insisted on Tuesday, as it released its most comprehensive assessment of environmental pressures facing the world.",
+    "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/09-12-2025-UNEP-plastic-recycle.jpg/image560x340cropped.jpg",
+    "cluster_id": -1
+  },
+  {
     "title": "Deadly storms sweep South and Southeast Asia, leaving over 1,600 dead",
     "url": "https://news.un.org/feed/view/en/story/2025/12/1166516",
     "date": "2025-12-04",
@@ -15,6 +24,24 @@
     "source": "UN News - Global perspective Human stories",
     "text": "The Arab region is heating at nearly twice the global average, UN weather experts warned on Thursday, after 2024 saw unprecedented heat, destructive storms and worsening water scarcity impact some of the world’s most vulnerable communities.",
     "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-03-2021-unsplash-Makkah-Saudi-Arabia.jpg/image560x340cropped.jpg",
+    "cluster_id": -1
+  },
+  {
+    "title": "Montana youth activists who won landmark climate case push for court enforcement",
+    "url": "https://www.theguardian.com/us-news/2025/dec/10/montana-climate-youth-activists-petition-law",
+    "date": "2025-12-10",
+    "source": "Environment | The Guardian",
+    "text": "<p>In 2023, court ruled in favor of 16 plaintiffs that officials violated their constitutional right by promoting fossil fuels</p><p>The young Montanans who scored a landmark triumph in the lawsuit Held v Montana are calling on the state’s highest court to enforce that victory.</p><p>In a <a href=\"https://www.theguardian.com/us-news/2023/aug/14/montana-climate-trial-young-activists-judge-order\">groundbreaking legal decision in August 2023</a>, a Montana judge ruled in favor of 16 youth plaintiffs who had accused state officials of violating their constitutional rights by promoting fossil fuels. The state’s supreme court affirmed the judge’s findings in late 2024. But state lawmakers have since violated her ruling, enshrining new laws this year that contradict it, argue 13 of the 16 plaintiffs in a petition filed on Wednesday.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/10/montana-climate-youth-activists-petition-law\">Continue reading...</a>",
+    "image_url": null,
+    "cluster_id": -1
+  },
+  {
+    "title": "A dead whale shows up on your beach. What do you do with the 40-ton carcass?",
+    "url": "https://www.theguardian.com/environment/2025/dec/10/whale-ecosystem-death-anchorage-alaska",
+    "date": "2025-12-10",
+    "source": "Environment | The Guardian",
+    "text": "<p>A fin whale washed ashore in Anchorage and was left there for months. Then a self-described ‘wacko’ museum director made a plan</p><p>When a whale dies, its body descends to the bottom of the deep sea in a transformative phenomenon called a whale fall. A whale’s death jump-starts an explosion of life, enough to feed and sustain a deep-ocean ecosystem for decades.</p><p>There are a lot of ways whales can die. Migrating whales <a href=\"https://www.bbc.com/news/science-environment-41110082\">lose their way</a> and, unable to find their way back from unfamiliar waters, are stranded. They can starve when prey disappears or fall to predators such as orcas. They become bycatch, tangled in fishing lines and nets. Mass whale deaths have been linked to marine heatwaves and the toxic algae blooms that follow.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/10/whale-ecosystem-death-anchorage-alaska\">Continue reading...</a>",
+    "image_url": null,
     "cluster_id": -1
   },
   {
@@ -63,56 +90,38 @@
     "cluster_id": -1
   },
   {
-    "title": "California officials warn foragers after person dies from poison mushroom",
-    "url": "https://www.theguardian.com/us-news/2025/dec/06/california-mushroom-poisoning",
-    "date": "2025-12-06",
+    "title": "Snakes, spiders and rare birds seized by Border Force in month-long operation",
+    "url": "https://www.theguardian.com/environment/2025/dec/11/snakes-spiders-and-rare-birds-seized-by-border-force-in-month-long-operation",
+    "date": "2025-12-11",
     "source": "Environment | The Guardian",
-    "text": "<p>Several additional people, including children, have severe liver damage amid 21 cases of amatoxin poisoning</p><p><a href=\"https://www.theguardian.com/us-news/california\">California</a> officials are warning foragers after an outbreak of poisoning linked to wild mushrooms that has killed one adult and caused severe liver damage in several patients, including children.</p><p>The state poison control system has identified 21 cases of amatoxin poisoning, likely caused by <a href=\"https://www.theguardian.com/science/2023/aug/10/victoria-death-cap-mushroom-poisoning-what-are-death-caps-deadly-toxic-poisonous-australia\">death cap mushrooms</a>, the health department said on Friday. The toxic wild mushrooms are often mistaken for edible ones because of their appearance and taste.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/06/california-mushroom-poisoning\">Continue reading...</a>",
+    "text": "<p>Wildlife smuggling is serious organised crime that ‘fuels corruption and drives species to extinction’, Home Office says</p><p>More than 250 endangered species and illegal wildlife products were seized at the UK border in a single month, new figures have revealed, including spiders, snakes and birds.</p><p>The illicit cargo was uncovered as part of an annual crackdown on wildlife smuggling known as Operation Thunder, which is led by Interpol and the World Customs Organisation.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/11/snakes-spiders-and-rare-birds-seized-by-border-force-in-month-long-operation\">Continue reading...</a>",
+    "image_url": "https://i.guim.co.uk/img/media/31501326b0bc15091b2d2f862c45c6b3b30c1743/0_998_2382_1904/master/2382.jpg?width=140&quality=85&auto=format&fit=max&s=0ba27d77f1f52908829c32efef02042a",
+    "cluster_id": -1
+  },
+  {
+    "title": "NSW koala numbers higher than previously thought, but new data may not show true picture",
+    "url": "https://www.theguardian.com/australia-news/2025/dec/11/nsw-koala-numbers-higher-than-previously-thought-but-new-data-may-not-show-true-picture",
+    "date": "2025-12-11",
+    "source": "Environment | The Guardian",
+    "text": "<p>Updated estimate reflects more accurate technology and extensive survey work, rather than a true increase in the koala population</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/dec/11/vce-atar-results-victoria-social-media-ban-reactions-abs-employment-figures-queensland-parliament-aukus-meeting-washington-dc-anthony-albanese-labor-sussan-ley-coalition-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong> </strong>The first comprehensive koala survey conducted in New South Wales suggests populations of the endangered marsupial are higher than previously thought.</p><p>The NSW government’s statewide survey, released on Thursday, estimates there are 274,000 koalas across the state.</p> <a href=\"https://www.theguardian.com/australia-news/2025/dec/11/nsw-koala-numbers-higher-than-previously-thought-but-new-data-may-not-show-true-picture\">Continue reading...</a>",
     "image_url": null,
     "cluster_id": -1
   },
   {
-    "title": "Drag queen Pattie Gonia completes 100-mile trek raising $1m to make outdoors more ‘equitable’",
-    "url": "https://www.theguardian.com/us-news/2025/dec/06/pattie-gonia-drag-queen-environmentalist",
-    "date": "2025-12-06",
+    "title": "Sea urchin species on brink of extinction after marine pandemic",
+    "url": "https://www.theguardian.com/environment/2025/dec/11/sea-urchin-species-on-brink-of-extinction-after-marine-pandemic",
+    "date": "2025-12-11",
     "source": "Environment | The Guardian",
-    "text": "<p>Drag queen, environmentalist, diversity and inclusion advocate and social media star arrives in San Francisco</p><p>Pattie Gonia, the drag queen and environmentalist, arrived in San Francisco on Friday afternoon and crossed the Golden Gate Bridge with $1m more than when she set out on her journey last week.</p><p>The diversity and inclusion advocate completed the 100-mile trek from Point Reyes national seashore to San Francisco in full drag with her voluminous red wig and smokey eye. The effort was part of a campaign she launched to raise $1m for eight non-profits that aim to expand access and make the outdoors a more “equitable place”.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/06/pattie-gonia-drag-queen-environmentalist\">Continue reading...</a>",
+    "text": "<p>Ecologically important <em>Diadema africanum</em> almost eliminated by unknown disease in Canary Islands</p><p>A marine pandemic is bringing some species of sea urchin to the brink of extinction, and some populations have disappeared altogether, <a href=\"https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1665504/abstract\">a study has found</a>.</p><p>Since 2021, <em>Diadema africanum</em> urchins in the Canary Island archipelago have almost entirely been killed by an unknown disease. There has been a 99.7% population decrease in Tenerife, and a 90% decrease off the islands of the Madeira archipelago.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/11/sea-urchin-species-on-brink-of-extinction-after-marine-pandemic\">Continue reading...</a>",
     "image_url": null,
     "cluster_id": -1
   },
   {
-    "title": "Synthetic chemicals in food system creating health burden of $2.2tn a year, report finds",
-    "url": "https://www.theguardian.com/environment/2025/dec/10/synthetic-chemicals-food-system-health-burden-report",
-    "date": "2025-12-10",
+    "title": "‘Not normal’: Climate crisis supercharged deadly monsoon floods in Asia",
+    "url": "https://www.theguardian.com/environment/2025/dec/11/climate-crisis-made-monsoon-floods-asia-worse-study",
+    "date": "2025-12-11",
     "source": "Environment | The Guardian",
-    "text": "<p>Scientists issue urgent warning about chemicals, found to cause cancer and infertility as well as harming environment</p><p>Scientists have issued an urgent warning that some of the synthetic chemicals that help underpin the current food system are driving increased rates of cancer, neurodevelopmental conditions and infertility, while degrading the foundations of global agriculture.</p><p>The health burden from phthalates, bisphenols, pesticides and Pfas “forever chemicals” amounts to up to $2.2tn a year – roughly as much as the profits of the world’s 100 largest publicly listed companies, according to the <a href=\"https://www.systemiq.earth/reports/invisible-ingredients/\">report published on Wednesday</a>.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/10/synthetic-chemicals-food-system-health-burden-report\">Continue reading...</a>",
-    "image_url": null,
-    "cluster_id": -1
-  },
-  {
-    "title": "Ofgem approves early investment in three UK electricity ‘superhighways’",
-    "url": "https://www.theguardian.com/business/2025/dec/09/ofgem-investment-uk-electricity-superhighways",
-    "date": "2025-12-09",
-    "source": "Environment | The Guardian",
-    "text": "<p>Green light intended to limit amount consumers pay for windfarms to turn off during periods of high generation</p><p>Three major UK electricity “superhighways” could move ahead sooner than expected to help limit the amount that households pay for windfarms to turn off during periods of high power generation.</p><p>Current grid bottlenecks mean there is not enough capacity to transport the abundance of electricity generated in periods of strong winds to areas where energy demand is highest.</p> <a href=\"https://www.theguardian.com/business/2025/dec/09/ofgem-investment-uk-electricity-superhighways\">Continue reading...</a>",
-    "image_url": null,
-    "cluster_id": -1
-  },
-  {
-    "title": "Australia’s energy grid must triple capacity by 2050 with major increase to wind and solar, Aemo says",
-    "url": "https://www.theguardian.com/australia-news/2025/dec/10/australia-must-increase-energy-grid-capacity-wind-solar-aemo",
-    "date": "2025-12-09",
-    "source": "Environment | The Guardian",
-    "text": "<p>Market operator says capital cost of infrastructure under optimal path would be $128bn in today’s dollars, but price of delay is even higher</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The capacity of Australia’s main electricity grid will need to triple by 2050 – including a fivefold expansion of large-scale wind, solar and storage – under the most likely development path, the national energy market operator says.</p><p>The estimate is included in the Australian Energy Market Operator (Aemo) draft “integrated system plan” for the national electricity market, the power grid that connects the five eastern states and the ACT.</p><p><strong><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=copyembed\">Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2025/dec/10/australia-must-increase-energy-grid-capacity-wind-solar-aemo\">Continue reading...</a>",
-    "image_url": null,
-    "cluster_id": -1
-  },
-  {
-    "title": "‘Food and fossil fuel production causing $5bn of environmental damage an hour’",
-    "url": "https://www.theguardian.com/environment/2025/dec/09/food-fossil-fuel-production-5bn-environmental-damage-an-hour-un-geo-report-",
-    "date": "2025-12-09",
-    "source": "Environment | The Guardian",
-    "text": "<p>UN GEO report says ending this harm key to global transformation required ‘before collapse becomes inevitable’</p><p>The unsustainable production of food and fossil fuels causes $5bn (£3.8bn) of environmental damage per hour, according to a major UN report.</p><p>Ending this harm was a key part of the global transformation of governance, economics and finance required “before collapse becomes inevitable”, the experts said.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/09/food-fossil-fuel-production-5bn-environmental-damage-an-hour-un-geo-report-\">Continue reading...</a>",
+    "text": "<p>Cyclones like those in Indonesia, Sri Lanka and Malaysia that killed 1,750 are ‘alarming new reality’</p><p>The climate crisis supercharged the deadly storms that killed more than 1,750 people in Asia by making downpours more intense and flooding worse, scientists have reported. Monsoon rains often bring some flooding but the scientists were clear: this was “not normal”.</p><p>In Sri Lanka, some floods reached the second floor of buildings, while in Sumatra, in Indonesia, the floods were worsened by the destruction of forests, which in the past slowed rainwater running off hillsides.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/11/climate-crisis-made-monsoon-floods-asia-worse-study\">Continue reading...</a>",
     "image_url": null,
     "cluster_id": -1
   },
@@ -158,15 +167,6 @@
     "date": "2025-12-05",
     "source": "Environment | The Guardian",
     "text": "<p>Climate crisis and overfishing contributed to loss of 95% of penguins in two breeding colonies in South Africa, research finds</p><p>More than 60,000 penguins in colonies off the coast of South Africa have starved to death as a result of disappearing sardines, a new paper has found.</p><p>More than 95% of the African penguins in two of the most important breeding colonies, on Dassen Island and Robben Island, died between 2004 and 2012. The breeding penguins probably starved to death during the moulting period, according to the paper, which said the climate crisis and overfishing were driving declines.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe\">Continue reading...</a>",
-    "image_url": null,
-    "cluster_id": -1
-  },
-  {
-    "title": "How an invasion of purple flowers made Iceland an Instagram paradise – and caused a biodiversity crisis",
-    "url": "https://www.theguardian.com/environment/2025/dec/04/invasive-species-flowers-iceland-nootka-lupins-lupines-aoe",
-    "date": "2025-12-04",
-    "source": "Environment | The Guardian",
-    "text": "<p>Nootka lupins, introduced in the 1940s to repair damaged soil, are rampaging across the island, threatening its native species</p><p>It was only when huge areas of Iceland started turning purple that authorities realised they had made a mistake. By then, it was too late. The Nootka lupin, native to Alaska, had coated the sides of fjords, sent tendrils across mountain tops and covered lava fields, grasslands and protected areas.</p><p>Since it arrived in the 1940s, it has become an accidental national symbol. Hordes of tourists and local people pose for photos in the ever-expanding fields in June and July, entranced by the delicate cones of flowers that cover the north Atlantic island.</p> <a href=\"https://www.theguardian.com/environment/2025/dec/04/invasive-species-flowers-iceland-nootka-lupins-lupines-aoe\">Continue reading...</a>",
     "image_url": null,
     "cluster_id": -1
   },
@@ -227,9 +227,9 @@
   {
     "title": "Cramer: I may need to reevaluate our Costco position. Plus, a good sign for Linde",
     "url": "https://www.cnbc.com/2025/12/09/cramer-i-may-need-to-reevaluate-costco-plus-a-good-sign-for-linde.html",
-    "date": "2025-12-09",
+    "date": "2025-12-10",
     "source": "Energy",
-    "text": "Every weekday, the CNBC Investing Club with Jim Cramer holds a \"Morning Meeting\" livestream at 10:20 a.m. ET. Here's a recap of Tuesday's key moments. 1. Stocks are higher ahead of Wednesday's Federal Reserve interest rate decision. The U.S. central bank is expected to cut rates by 25 basis points, making it the third cut of 2025 and a catalyst for the market. \"If the Fed cuts, that's just gigantic for some of our stocks,\" Jim Cramer said, mentioning rate-sensitive Club name Home Depot and technology stocks. Meanwhile, our \"own it, don't trade it\" name, Nvidia , is in the headlines again after President Donald Trump confirmed he will allow the company to sell its more advanced H200 chips to approved customers in China, provided the U.S. gets a 25% cut. Wells Fargo estimates it could add $25 billion to $30 billion in annual revenue and $0.60 to $0.70 in earnings per share. We're not banking on China, but it's a bonus if Nvidia gets the sales. 2. Shares of chemical company Linde climbed 1% Tuesday following news that CEO Sanjiv Lamba bought 2,520 shares of Linde at roughly $396 per share, roughly $1 million worth, according to a recent SEC filing. The stock hit a new 52-week low on Monday of $387.78 and has dropped about 18% since the start of October. The last time Lamba bought shares was in March 2022 at $268.62 per share, also $1 million worth at the time. Despite the very disappointing performance over the past few months, this insider buying could be \"a sign that the stock price action might be wrong and the business is actually holding up better than the market thinks,\" said portfolio director Jeff Marks. 3. \"I am concerned now about Costco,\" Jim said, comparing it to Walmart , which has been a stronger-performing retailer this year. Walmart stock is up 26% year to date, while Costco shares are down more than 30% over the same period. Jim said he regards Costco as \"one of the greatest performing stocks of all time\" and doesn't want to sell it. But he added that if it keeps going down, he will have to reevaluate. We would like to see a signal from management that proves this decline isn't a new normal when Costco reports its first quarter of fiscal 2026 on Thursday after the bell. 4. Stocks covered in Tuesday's rapid fire at the end of the video were: CVS , Toll Brothers , Marvell Tech , Campbell's , and PepsiCo . (Jim Cramer's Charitable Trust is long HD, NVDA, LIN, COST. See here for a full list of the stocks.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.",
+    "text": "Every weekday, the CNBC Investing Club with Jim Cramer holds a \"Morning Meeting\" livestream at 10:20 a.m. ET. Here's a recap of Tuesday's key moments. 1. Stocks are higher ahead of Wednesday's Federal Reserve interest rate decision. The U.S. central bank is expected to cut rates by 25 basis points, making it the third cut of 2025 and a catalyst for the market. \"If the Fed cuts, that's just gigantic for some of our stocks,\" Jim Cramer said, mentioning rate-sensitive Club name Home Depot and technology stocks. Meanwhile, our \"own it, don't trade it\" name, Nvidia , is in the headlines again after President Donald Trump confirmed he will allow the company to sell its more advanced H200 chips to approved customers in China, provided the U.S. gets a 25% cut. Wells Fargo estimates it could add $25 billion to $30 billion in annual revenue and $0.60 to $0.70 in earnings per share. We're not banking on China, but it's a bonus if Nvidia gets the sales. 2. Shares of chemical company Linde climbed 1% Tuesday following news that CEO Sanjiv Lamba bought 2,520 shares of Linde at roughly $396 per share, roughly $1 million worth, according to a recent SEC filing. The stock hit a new 52-week low on Monday of $387.78 and has dropped about 18% since the start of October. The last time Lamba bought shares was in March 2022 at $268.62 per share, also $1 million worth at the time. Despite the very disappointing performance over the past few months, this insider buying could be \"a sign that the stock price action might be wrong and the business is actually holding up better than the market thinks,\" said portfolio director Jeff Marks. 3. \"I am concerned now about Costco,\" Jim said, comparing it to Walmart , which has been a stronger-performing retailer this year. Walmart stock is up 26% year to date, while Costco shares are down 3% over the same period. Jim said he regards Costco as \"one of the greatest performing stocks of all time\" and doesn't want to sell it. But he added that if it keeps going down, he will have to reevaluate. We would like to see a signal from management that proves this decline isn't a new normal when Costco reports its first quarter of fiscal 2026 on Thursday after the bell. 4. Stocks covered in Tuesday's rapid fire at the end of the video were: CVS , Toll Brothers , Marvell Tech , Campbell's , and PepsiCo . (Jim Cramer's Charitable Trust is long HD, NVDA, LIN, COST. See here for a full list of the stocks.) — Correction: This story has been updated to reflect that Costco shares are down 3% year to date. As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.",
     "image_url": null,
     "cluster_id": -1
   },
