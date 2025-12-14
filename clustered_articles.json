@@ -140,15 +140,6 @@
         "text": "<p>Weak regulation is to blame for disastrous failures in relation to pollution. But there are solutions if people get behind them</p><p>A study suggesting that <a href=\"https://www.theguardian.com/environment/2025/dec/09/uk-households-bin-christmas-lights-fast-tech-items\">as many as 168m light-up Christmas ornaments</a> and similar items could be thrown out in a single year, in the UK, is concerning if not surprising in light of longstanding challenges around recycling rates and waste reduction. Even if the actual figure is lower, there is no question that battery-powered and electrical toys, lights and gifts are proliferating as never before. Despite a great deal of commentary aimed at dialling down consumption&nbsp;over&nbsp;the festive season, especially surplus packaging and&nbsp;rubbish, strings of disposable&nbsp;lights and flashing figures have gained in popularity. Homes, front gardens and shopping streets&nbsp;grow sparklier by the year.</p><p>Batteries and electrical devices present particular difficulties when it comes to disposal, because they cause fires. But they are just one part of a more general&nbsp;problem of excessive waste – and weak&nbsp;regulatory oversight. British plastic waste exports&nbsp;rose by 5% in 2024 <a href=\"https://www.letsrecycle.com/news/uk-is-third-highest-exporter-of-waste-says-cleanhub/\">to nearly<strong> </strong>600,000 tonnes.</a> A new report on plastics from the Pew Charitable Trusts&nbsp;warns that global production is expected to rise&nbsp;by 52% by 2040 – to <a href=\"https://www.theguardian.com/environment/2025/dec/03/reuse-and-return-schemes-could-help-eliminate-plastic-waste-in-15-years-report\">680m tonnes</a> – outstripping&nbsp;the&nbsp;capacity of waste management systems around the&nbsp;world.</p> <a href=\"https://www.theguardian.com/commentisfree/2025/dec/09/the-guardian-view-on-waste-the-festive-season-is-a-good-time-to-think-about-rubbish\">Continue reading...</a>",
         "image_url": null,
         "cluster_id": 2
-      },
-      {
-        "title": "Drinking water contaminated with Pfas probably increases risk of infant mortality, study finds",
-        "url": "https://www.theguardian.com/us-news/2025/dec/08/drinking-water-pfas-infant-mortality-study",
-        "date": "2025-12-08",
-        "source": "Environment | The Guardian",
-        "text": "<p>Study of 11,000 births in New Hampshire shows residents’ reproductive outcomes near contaminated sites</p><p>Drinking water contaminated with <a href=\"https://www.theguardian.com/environment/pfas\">Pfas</a> chemicals probably increases the risk of infant mortality and other harm to newborns, a new peer-reviewed study of 11,000 births in New Hampshire finds.</p><p>The first-of-its-kind University of Arizona research found drinking well water down gradient from a Pfas-contaminated site was tied to an increase in infant mortality of 191%, pre-term birth of 20%, and low-weight birth of 43%.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/08/drinking-water-pfas-infant-mortality-study\">Continue reading...</a>",
-        "image_url": null,
-        "cluster_id": 2
       }
     ],
     "source_link": "Environment | The Guardian",
@@ -157,6 +148,15 @@
   },
   {
     "articles": [
+      {
+        "title": "Atmospheric rivers – what to know about the storms inundating the Pacific north-west",
+        "url": "https://www.theguardian.com/us-news/2025/dec/13/atmospheric-river-washington-canada-pacific-north-west",
+        "date": "2025-12-13",
+        "source": "Environment | The Guardian",
+        "text": "<p>This week’s weather system dumped 5tn gallons of rain on Washington state – and another one is threatening Canada</p><p>Just as record-level flood waters that triggered widespread evacuations begin to recede in western <a href=\"https://www.theguardian.com/us-news/washington-state\">Washington state</a>, residents of the Pacific north-west are bracing themselves for another strong weather system that is likely to swell rivers back to dangerous levels – again.</p><p>An extraordinarily strong system known as an atmospheric river hit the region earlier this week, dropping <a href=\"https://apnews.com/article/atmospheric-river-pacific-northwest-flooding-warming-9a175150afae172f2ebca27133abbd5b\">more than a foot of rain</a> and flooding rivers that stretch across the state toward <a href=\"https://www.theguardian.com/world/canada\">Canada</a> to dangerous levels. As a result of the nonstop rain, mudslides tore through communities, washing away homes and stranding families on rooftops as they waited for rescue.</p> <a href=\"https://www.theguardian.com/us-news/2025/dec/13/atmospheric-river-washington-canada-pacific-north-west\">Continue reading...</a>",
+        "image_url": null,
+        "cluster_id": 3
+      },
       {
         "title": "UN environment assembly wraps up in Nairobi",
         "url": "https://news.un.org/feed/view/en/story/2025/12/1166585",
@@ -230,9 +230,9 @@
         "cluster_id": 3
       }
     ],
-    "source_link": "UN News - Global perspective Human stories",
-    "summary": "The seventh session of the United Nations Environment Assembly concluded in Nairobi, Kenya, on Friday. Member States adopted 11 resolutions, three decisions and a ministerial declaration aiming to advance solutions for a more resilient planet.",
-    "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/12-12-2025_UNEP_UNEA7_Nairobi_Kenya.jpg/image560x340cropped.jpg"
+    "source_link": "Environment | The Guardian",
+    "summary": "This week’s weather system dumped 5tn gallons of rain on Washington state – and another one is threatening Canada. Today marks the 10th anniversary of the Paris climate treaty, one of the landmark days in climate-action history.",
+    "image_url": null
   },
   {
     "articles": [
